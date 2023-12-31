@@ -63,7 +63,7 @@ func main() {
 	}
 
 	// Set your MongoDB connection string
-	uri := "mongodb://spider:spider123@localhost:27017"
+	uri := "mongodb://user:1234@localhost:27017"
 
 	// Set client options
 	clientOptions := options.Client().ApplyURI(uri)
