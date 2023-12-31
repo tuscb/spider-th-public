@@ -85,5 +85,4 @@ Note that you can change 10 to the desired number of record.
 This is not a production MongoDB configuration. It simply iillustrates how to add and pull data from MongDB database including how data are stored in json file the most efficient method for successfully importing MongoDB code.
 
 ## Contacts
-Spider in Thailand: https://spiderthailand.info.
-If you have any suggestion or find a bug, please contact us by email.
+If you have any suggestion or find a bug, please contact us by email or Spider in Thailand: https://spiderthailand.info.
