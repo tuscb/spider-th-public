@@ -1,14 +1,13 @@
 # spider-th-public
-This github repository provides files and folders for Spider in Thailand project.
+This GitHub repository provides files for Spider in Thailand project backend demo in a part of data adding into MongoDB.
 
-The following guide is for quicky testing insert `.json` file storing data of spider into MongoDB database and query the ith data spider item.
-
+The following guide is for quickly testing insert `.json` file storing data of spider into MongoDB database and query the ith data spider item.
 
 ## Requirement
 The `Go` programming language is installed on your system, already.
 The host machine must be a running `Docker` engine. `Git` is also installed.
 You need to ensure that Docker have been installed on your machine before using this configuration.
-This project has been cerrently tested on Docker Desktop 4.26.1. 
+This project has been currently tested on Docker Desktop 4.26.1. 
 
 ## Overview
 This `docker-compose.yml` file is designed to facilitate the deployment of the MongoDB database. 
@@ -19,7 +18,7 @@ Refer to the `go.mod` file for Go-related dependencies.
 
 `main.go` file is this application entry point.
 
-Example of spider's data is stored `data_demoDBspider.json ` for demostration purpose.
+Example of spider's data is stored `data_demoDBspider.json ` for demonstration purpose.
 
 ## Deployment
 To deploy this database as demo, you can use the provided `docker-compose.yml` file. 
@@ -39,7 +38,7 @@ git clone https://github.com/tuscb/spider-th-public.git
 cd spider-th-public
 ```
 
-3. Initialize `go.mod` with module name go-spiderth and run `go mod tidy` to add missing and remove unused modules.
+3. Initialize `go.mod` with module named go-spiderth and run `go mod tidy` to add missing and remove unused modules.
 ```bash
 go mod init go-spiderth
 ```
@@ -55,14 +54,14 @@ Note that username is `user` and password is `1234`.
 ```bash
 docker-compose up -d
 ```
-Note that `docker-compose down`command is for stoping it.
+Note that `docker-compose down` command is for stopping it.
 
-6. Check whether Docker is sucessfully running
+6. Check whether Docker is successfully running
 ```bash
 docker ps
 ```
 
-7. If  username and password are changed on step 4, ensure to change them at line 66 in `main.go` file, too.
+7. If username and password are changed on step 4, ensure to change them at line 66 in `main.go` file, too.
 ```
 // Set your MongoDB connection string
 uri := "mongodb://user:1234@localhost:27017"
@@ -80,7 +79,9 @@ go run main.go -q 10
 Note that you can change 10 to the desired number of record.
 
 ## Summary
-This is not a production MongoDB configuration. It simply iillustrates how to add and pull data from MongDB database including how data are stored in json file the most efficient method for successfully importing MongoDB code.
+This is not a production MongoDB configuration. It simply illustrates how to add and pull data from MongDB database including how data are stored in json file the most efficient method for successfully importing MongoDB code. 
+
+The code here: https://github.com/spiderInThailand/spider-thailand-public is a publicly available portion of the backend in production. 
 
 ## Contacts
 If you have any suggestion or find a bug, please contact us by email or Spider in Thailand: https://spiderthailand.info.
