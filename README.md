@@ -1,7 +1,7 @@
 # spider-th-public
 This GitHub repository provides files for Spider in Thailand project backend demo in a part of data adding into MongoDB.
 
-The following guide is for quickly testing insert `.json` file storing data of spider into MongoDB database and query the ith data spider item.
+The following guide is for quickly testing insert `.json` file storing data of spider into MongoDB database and query the $i_th$ data spider item.
 
 ## Requirement
 The `Go` programming language is installed on your system, already.
