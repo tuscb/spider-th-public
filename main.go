@@ -92,12 +92,10 @@ func main() {
 	// Use the client to create a new database
 	dbName := "spiderTh"
 	client.Database(dbName)
-	fmt.Printf("Database '%s' created successfully!\n", dbName)
 
 	// Create a new collection for SpiderInfo
 	collectionName := "spiderInfo"
 	collection := client.Database(dbName).Collection(collectionName)
-	fmt.Printf("Collection '%s' created successfully!\n", collectionName)
 
 	if *inputFileName != "" {
 		// Read data from JSON file
