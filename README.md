@@ -29,13 +29,14 @@ You can customize it according to your necessary Docker commands.
 
 
 ## Usage
-Open 
-1. Clone the repository: 
+Open a terminal and run the following commands
+ 
+1. Clone the repository.
 ```bash
 git clone https://github.com/tuscb/spider-th-public.git
 ```
 
-2. Change to the project directory: 
+2. Change to the project directory.
 ```bash
 cd spider-th-public
 ```
