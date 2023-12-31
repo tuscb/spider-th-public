@@ -1,6 +1,4 @@
 # spider-th-public
-Spider in Thailand
-
 This github repository provides files and folders for Spider in Thailand project.
 
 The following guide is for quicky testing insert `.json` file storing data of spider into MongoDB database and query the ith data spider item.
