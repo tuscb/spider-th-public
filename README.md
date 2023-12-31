@@ -1,7 +1,7 @@
 # spider-th-public
 This GitHub repository provides files for Spider in Thailand project backend demo in a part of data adding into MongoDB.
 
-The following guide is for quickly testing insert `.json` file storing data of spider into MongoDB database and query the $i_th$ data spider item.
+The following guide is for quickly testing insert `.json` file storing data of spider into MongoDB database and query the $i^{th}$ data spider item.
 
 ## Requirement
 The `Go` programming language is installed on your system, already.
@@ -72,7 +72,7 @@ uri := "mongodb://user:1234@localhost:27017"
 go run main.go -i data_demoDBspider.json 
 ```
 
-9. Example to query spider data item 10th from the database after `data_demoDBspider.json` file already added into the database on the previous step.
+9. Example to query spider data item $10^{th}$ from the database after `data_demoDBspider.json` file already added into the database on the previous step.
 ```bash
 go run main.go -q 10
 ```
