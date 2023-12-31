@@ -30,7 +30,7 @@ You can customize it according to your necessary Docker commands.
 
 ## Usage
 Open a terminal and run the following commands
- 
+
 1. Clone the repository.
 ```bash
 git clone https://github.com/tuscb/spider-th-public.git
@@ -84,5 +84,6 @@ Note that you can change 10 to the desired number of record.
 ## Summary
 This is not a production MongoDB configuration. It simply iillustrates how to add and pull data from MongDB database including how data are stored in json file the most efficient method for successfully importing MongoDB code.
 
-## Contact
+## Contacts
+Spider in Thailand: https://spiderthailand.info.
 If you have any suggestion or find a bug, please contact us by email.
