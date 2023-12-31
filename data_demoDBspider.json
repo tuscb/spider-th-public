@@ -1,0 +1,3502 @@
+[
+  {
+    "family": "Lycosidae",
+    "genus": "Passiena",
+    "species": "torbjoerni",
+    "author": "Lehtinen",
+    "publish_year": "2005",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "",
+    "method": "",
+    "habitat": "Rainforests",
+    "microhabitat": "On the floor",
+    "designate": "This species is dedicated to the Swedish lycosid specialist and my good friend Dr. Torbjo\u00a8rn Kronestedt, one of the few specialists who has seen a real Passiena",
+    "address": [
+      {
+        "province": "Phetchabun",
+        "district": "Nam Nao",
+        "locality": "Nam Nao National Park",
+        "position": [
+          {
+            "name": "Nam Nao National Park",
+            "latitude": 16.716667,
+            "longitude": 101.57
+          }
+        ]
+      },
+      {
+        "province": "Chiang Mai",
+        "district": "Mueang",
+        "locality": "Doi Suthep",
+        "position": [
+          {
+            "name": "Kontathon waterfall",
+            "latitude": 18.816667,
+            "longitude": 98.11
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Lehtinen, P. T. (2005). Review of the Oriental wolf spider genus Passiena (Lycosidae, Pardosinae). Journal of Arachnology 33(2): 398-407."
+    ]
+  },
+  {
+    "family": "Microstigmatidae",
+    "genus": "Angka",
+    "species": "hexops",
+    "author": "Raven & Schwendinger",
+    "publish_year": "1995",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "2530 m",
+    "method": "",
+    "habitat": "",
+    "microhabitat": "",
+    "designate": "Greek, hexa (six), and ops (eye)",
+    "address": [
+      {
+        "province": "Chiang Mai",
+        "district": "Mae Chaem",
+        "locality": "Doi Inthanon",
+        "position": [
+          {
+            "name": "Doi Inthanon",
+            "latitude": 18.55,
+            "longitude": 98.466669
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Raven, R. J. & Schwendinger, P. J. (1995). Three new mygalomorph spider genera from Thailand and China (Araneae). Memoirs of the Queensland Museum 38(2): 623-641."
+    ]
+  },
+  {
+    "family": "Miturgidae",
+    "genus": "Systaria",
+    "species": "acuminata",
+    "author": "Dankittipakul & Singtripop",
+    "publish_year": "2011",
+    "country": "Thailand",
+    "country_other": "Indonesia",
+    "altitude": "60 m",
+    "method": "",
+    "habitat": "Plantation and forests",
+    "microhabitat": "",
+    "designate": "The specific epithet is a Latin adjective (acuminatus, -a, -um), referring to a gradually tapering embolus on the male palp.",
+    "address": [
+      {
+        "province": "Krabi",
+        "district": "Aao Luk",
+        "locality": "Waree-Rin Cave",
+        "position": [
+          {
+            "name": "Oil palm plantation",
+            "latitude": 8.447722,
+            "longitude": 98.833391
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Dankittipakul, P. & Singtripop, T. (2011a). Seven new species of Systaria Simon, 1897 from Southeast Asia (Araneae, Clubionidae, Systariinae). Zootaxa 2905: 16-32."
+    ]
+  },
+  {
+    "family": "Miturgidae",
+    "genus": "Systaria",
+    "species": "bifida",
+    "author": "Dankittipakul & Singtripop",
+    "publish_year": "2011",
+    "country": "Thailand",
+    "country_other": "Myanmar",
+    "altitude": "200 m",
+    "method": "",
+    "habitat": "Lowland forests near the seashore",
+    "microhabitat": "Humid habitats",
+    "designate": "The specific epithet is an adjective derived from Latin (bifidus, -a, -um), referring to the shape of a ventral process on the RTA of the male palp.",
+    "address": [
+      {
+        "province": "Narathiwat",
+        "district": "Waeng Dao",
+        "locality": "Hala-Bala Wildlife Sanctuary",
+        "position": [
+          {
+            "name": "Sirinthorn Waterfalls",
+            "latitude": 5.80266551372083,
+            "longitude": 101.826526429751
+          }
+        ]
+      },
+      {
+        "province": "Phangnga",
+        "district": "Takua Pa",
+        "locality": "Khao Lak National Park",
+        "position": [
+          {
+            "name": "Tone Chong Fa Waterfall",
+            "latitude": 8.65634100915692,
+            "longitude": 98.2871206433546
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Dankittipakul, P. & Singtripop, T. (2011a). Seven new species of Systaria Simon, 1897 from Southeast Asia (Araneae, Clubionidae, Systariinae). Zootaxa 2905: 16-32."
+    ]
+  },
+  {
+    "family": "Miturgidae",
+    "genus": "Systaria",
+    "species": "decidua",
+    "author": "Dankittipakul & Singtripop",
+    "publish_year": "2011",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "",
+    "method": "Pitfall trap",
+    "habitat": "Deciduous forests",
+    "microhabitat": "",
+    "designate": "The specific epithet is an adjective (Latin: deciduous, -a, -um), referring to the type of forest where this new species inhabits",
+    "address": [
+      {
+        "province": "Phetchabun",
+        "district": "Nam Nao",
+        "locality": "Nam Nao National Park",
+        "position": [
+          {
+            "name": "Nam Nao National Park",
+            "latitude": 16.719267,
+            "longitude": 101.5853
+          }
+        ]
+      },
+      {
+        "province": "Lampang",
+        "district": "Mae Tha",
+        "locality": "Doi Khun Tan National Park",
+        "position": [
+          {
+            "name": "Doi Khun Tan National Park",
+            "latitude": 18.495448,
+            "longitude": 99.278259
+          }
+        ]
+      },
+      {
+        "province": "Uttaradit",
+        "district": "Nam Pad",
+        "locality": "Phu Soi Dao National Park",
+        "position": [
+          {
+            "name": "Phu Soi Dao National Park",
+            "latitude": 17.698436,
+            "longitude": 100.944986
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Dankittipakul, P. & Singtripop, T. (2011a). Seven new species of Systaria Simon, 1897 from Southeast Asia (Araneae, Clubionidae, Systariinae). Zootaxa 2905: 16-32."
+    ]
+  },
+  {
+    "family": "Miturgidae",
+    "genus": "Systaria",
+    "species": "insolita",
+    "author": "Dankittipakul & Singtripop",
+    "publish_year": "2011",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "300 m",
+    "method": "",
+    "habitat": "Deciduous forests",
+    "microhabitat": "",
+    "designate": "The specific epithet is a Latin adjective (insolitus,-a, -um), referring to an unusual form of the embolus.",
+    "address": [
+      {
+        "province": "Chaiyaphum",
+        "district": "Mueang",
+        "locality": "Tard Tone National Park",
+        "position": [
+          {
+            "name": "Tard Tone National Park",
+            "latitude": 15.980543,
+            "longitude": 102.034668
+          }
+        ]
+      },
+      {
+        "province": "Phitsanulok",
+        "district": "Nakhon Thai",
+        "locality": "Phu Hin Rong Kla National Park",
+        "position": [
+          {
+            "name": "Phu Hin Rong Kla National Park",
+            "latitude": 17.007145,
+            "longitude": 100.997285
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Dankittipakul, P. & Singtripop, T. (2011a). Seven new species of Systaria Simon, 1897 from Southeast Asia (Araneae, Clubionidae, Systariinae). Zootaxa 2905: 16-32."
+    ]
+  },
+  {
+    "family": "Miturgidae",
+    "genus": "Systaria",
+    "species": "lanna",
+    "author": "Dankittipakul & Singtripop",
+    "publish_year": "2011",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "450 m",
+    "method": "",
+    "habitat": "Cave",
+    "microhabitat": "The wall at the cave entrance",
+    "designate": "The specific epithet is a noun in apposition, referring to the old independent state of Lanna (modern northern Thailand) where the types of this new species were collected",
+    "address": [
+      {
+        "province": "Mae Hong Son",
+        "district": "Pang Ma Pha",
+        "locality": "Tham Lod",
+        "position": [
+          {
+            "name": "Tham Lod",
+            "latitude": 19.571677,
+            "longitude": 98.288787
+          }
+        ]
+      },
+      {
+        "province": "Chiang Mai",
+        "district": "Chiang Dao",
+        "locality": "Tham Krab",
+        "position": [
+          {
+            "name": "Tham Krab",
+            "latitude": 19.558889,
+            "longitude": 99.06306
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Dankittipakul, P. & Singtripop, T. (2011a). Seven new species of Systaria Simon, 1897 from Southeast Asia (Araneae, Clubionidae, Systariinae). Zootaxa 2905: 16-32."
+    ]
+  },
+  {
+    "family": "Miturgidae",
+    "genus": "Systaria",
+    "species": "lannops",
+    "author": "J\u00e4ger",
+    "publish_year": "2018",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "633 m",
+    "method": "Hand",
+    "habitat": "Cave",
+    "microhabitat": "",
+    "designate": "The species name is a combined name from the species Systaria lanna Dankittipakul & Singtripop 2011 and the Greek nomen \u201cops\u201d, meaning \u201cappearance\u201d and referring to the similarity of the copulatory organs of the two species; term in apposition.",
+    "address": [
+      {
+        "province": "Chiang Mai",
+        "district": "Chai Prakan",
+        "locality": "Si Dong Yen",
+        "position": [
+          {
+            "name": "Tham Tap Tao",
+            "latitude": 19.662833,
+            "longitude": 99.116208
+          }
+        ]
+      },
+      {
+        "province": "Chiang Mai",
+        "district": "Chiang Kham",
+        "locality": "Tham Pha Daeng",
+        "position": [
+          {
+            "name": "Tham Pha Daeng",
+            "latitude": 19.502603,
+            "longitude": 99.146799
+          }
+        ]
+      },
+      {
+        "province": "Chiang Mai",
+        "district": "Chiang Dao",
+        "locality": "Doi Chiang Dao",
+        "position": [
+          {
+            "name": "Tham Doi Chiang Dao",
+            "latitude": 19.394167,
+            "longitude": 98.92778
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "J\u00e4ger, P. (2018b). On the genus Systaria (Araneae: Clubionidae) in Southeast Asia: new species from caves and forests. Zootaxa 4504(4): 524-544."
+    ]
+  },
+  {
+    "family": "Nemesiidae",
+    "genus": "Sinopesa",
+    "species": "maculata",
+    "author": "Raven & Schwendinger",
+    "publish_year": "1995",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "2300 m",
+    "method": "Pitfall trap, Leaf litter",
+    "habitat": "Forest",
+    "microhabitat": "Under rotten wood",
+    "designate": "Latin, maculatus, spotted.",
+    "address": [
+      {
+        "province": "Chiang Mai",
+        "district": "Mae Chaem",
+        "locality": "Doi Inthanon",
+        "position": [
+          {
+            "name": "Doi Inthanon",
+            "latitude": 18.55,
+            "longitude": 98.466669
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Raven, R. J. & Schwendinger, P. J. (1995). Three new mygalomorph spider genera from Thailand and China (Araneae). Memoirs of the Queensland Museum 38(2): 623-641."
+    ]
+  },
+  {
+    "family": "Nesticidae",
+    "genus": "Nesticella",
+    "species": "beccus",
+    "author": "Grall & J\u00e4ger",
+    "publish_year": "2016",
+    "country": "Thailand",
+    "country_other": "Laos",
+    "altitude": "669 m, 470 m",
+    "method": "Hand",
+    "habitat": "Cave",
+    "microhabitat": "The wall at the cave entrance",
+    "designate": "This species name is derived from the Latin word \"beccus\" meaning beak and refers to the beak_x0002_shaped paracymbium of the male; apposition.",
+    "address": [
+      {
+        "province": "Chiang Mai",
+        "district": "Chiang Dao",
+        "locality": "Doi Chiang Dao",
+        "position": [
+          {
+            "name": "Tham Ki Mi",
+            "latitude": 19.363056,
+            "longitude": 98.722779
+          },
+          {
+            "name": "Tham Doi Chiang Dao",
+            "latitude": 19.394167,
+            "longitude": 98.927777
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Grall, E. & J\u00e4ger, P. (2016). Four new species of the spider genus Nesticella Lehtinen & Saaristo, 1980 from Laos, Thailand and Myanmar and the first description of the male of Nesticella yui Wunderlich & Song, 1995 with a proposed new diagnostic character for the family Nesticidae Simon, 1894 (Arachnida, Araneae). Zootaxa 4085(2): 248-264. doi:10.11646/zootaxa.4085.2.5"
+    ]
+  },
+  {
+    "family": "Nesticidae",
+    "genus": "Nesticella",
+    "species": "connectens",
+    "author": "Wunderlich",
+    "publish_year": "1995",
+    "country": "Thailand",
+    "country_other": "Malaysia",
+    "altitude": "11m",
+    "method": "",
+    "habitat": "Forest, Cave",
+    "microhabitat": "Short wet branch with mud and vegetal remains",
+    "designate": "",
+    "address": [
+      {
+        "province": "Satun",
+        "district": "Trang",
+        "locality": "Beating Cave",
+        "position": [
+          {
+            "name": "Cave A",
+            "latitude": 7.15965,
+            "longitude": 99.8006
+          }
+        ]
+      },
+      {
+        "province": "Phangnga",
+        "district": "Tap pud",
+        "locality": "Tharn Lod Cave",
+        "position": [
+          {
+            "name": "Tharn Lod Cave",
+            "latitude": 8.51897,
+            "longitude": 98.565253
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Lin, Y. C., Ballarin, F. & Li, S. Q. (2016). A survey of the spider family Nesticidae (Arachnida, Araneae) in Asia and Madagascar, with the description of forty-three new species. ZooKeys 627: 1-168. doi:10.3897/zookeys.627.8629"
+    ]
+  },
+  {
+    "family": "Ochyroceratidae",
+    "genus": "Speocera",
+    "species": "capra",
+    "author": "Deeleman-Reinhold",
+    "publish_year": "1995",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "",
+    "method": "",
+    "habitat": "Cave",
+    "microhabitat": "",
+    "designate": "Capra = goat, the males wear horns and a beard",
+    "address": [
+      {
+        "province": "Chiang Mai",
+        "district": "Fang",
+        "locality": "Ban Tham Klaeb",
+        "position": [
+          {
+            "name": "Ban Tham Klaeb",
+            "latitude": 19.558828,
+            "longitude": 99.06306
+          }
+        ]
+      },
+      {
+        "province": "Mae Hong Son",
+        "district": "Sop Pong",
+        "locality": "Wat Pa Tham Hua Nam",
+        "position": [
+          {
+            "name": "Wat Pa Tham Hua Nam",
+            "latitude": 19.268884,
+            "longitude": 98.047117
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Deeleman-Reinhold, C. L. (1995d). The Ochyroceratidae of the Indo-Pacific region (Araneae). Raffles Bulletin of Zoology, Supplement 2: 1-103"
+    ]
+  },
+  {
+    "family": "Ochyroceratidae",
+    "genus": "Speocera",
+    "species": "deharvengi",
+    "author": "Deeleman-Reinhold",
+    "publish_year": "1995",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "",
+    "method": "",
+    "habitat": "Cave",
+    "microhabitat": "",
+    "designate": "In honour of its collector, Louis Deharveng",
+    "address": [
+      {
+        "province": "Khon Kaen",
+        "district": "Phu Kradung",
+        "locality": "Kubio cave",
+        "position": [
+          {
+            "name": "Kubio cave",
+            "latitude": 16.583333,
+            "longitude": 102.833335
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Deeleman-Reinhold, C. L. (1995d). The Ochyroceratidae of the Indo-Pacific region (Araneae). Raffles Bulletin of Zoology, Supplement 2: 1-103"
+    ]
+  },
+  {
+    "family": "Ochyroceratidae",
+    "genus": "Speocera",
+    "species": "huifengi",
+    "author": "F. Y. Li & S. Q. Li",
+    "publish_year": "2019",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "385 m",
+    "method": "",
+    "habitat": "Cave",
+    "microhabitat": "",
+    "designate": "The specific name is taken after the collector, Dr. Huifeng Zhao; name in genitive case.",
+    "address": [
+      {
+        "province": "Loei",
+        "district": "Phu Kradueng",
+        "locality": "Pha Nok Khao",
+        "position": [
+          {
+            "name": "Tham Wat Phu Sang",
+            "latitude": 16.8177,
+            "longitude": 101.94057
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Tong, Y. F., Li, F. Y., Song, Y., Chen, H. F. & Li, S. Q. (2019a). Thirty-two new species of the genus Speocera Berland, 1914 (Araneae: Ochyroceratidae) from China, Madagascar and Southeast Asia. Zoological Systematics 44(1): 1-75. doi:10.11865/zs.201901"
+    ]
+  },
+  {
+    "family": "Ochyroceratidae",
+    "genus": "Speocera",
+    "species": "lahrak",
+    "author": "F. Y. Li & S. Q. Li",
+    "publish_year": "2019",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "82 m",
+    "method": "",
+    "habitat": "Forest",
+    "microhabitat": "",
+    "designate": "The specific name is derived from the type locality; noun.",
+    "address": [
+      {
+        "province": "Nakhon Nayok",
+        "district": "Mueang",
+        "locality": "Lah Rak waterfall",
+        "position": [
+          {
+            "name": "Forest near Lah Rak waterfall",
+            "latitude": 14.2912,
+            "longitude": 101.248135
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Tong, Y. F., Li, F. Y., Song, Y., Chen, H. F. & Li, S. Q. (2019a). Thirty-two new species of the genus Speocera Berland, 1914 (Araneae: Ochyroceratidae) from China, Madagascar and Southeast Asia. Zoological Systematics 44(1): 1-75. doi:10.11865/zs.201901"
+    ]
+  },
+  {
+    "family": "Ochyroceratidae",
+    "genus": "Speocera",
+    "species": "leclerci",
+    "author": "Deeleman-Reinhold",
+    "publish_year": "1995",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "",
+    "method": "",
+    "habitat": "Cave",
+    "microhabitat": "",
+    "designate": "Named for the collector Philippe Leclerc.",
+    "address": [
+      {
+        "province": "Prachuap Khiri Khan",
+        "district": "Kui Buri",
+        "locality": "Khao Sam Roi Yot National Park",
+        "position": [
+          {
+            "name": "Tham Daeng",
+            "latitude": 12.145943,
+            "longitude": 99.917407
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Deeleman-Reinhold, C. L. (1995d). The Ochyroceratidae of the Indo-Pacific region (Araneae). Raffles Bulletin of Zoology, Supplement 2: 1-105"
+    ]
+  },
+  {
+    "family": "Ochyroceratidae",
+    "genus": "Speocera",
+    "species": "phangngaensis",
+    "author": "Deeleman-Reinhold",
+    "publish_year": "1995",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "",
+    "method": "",
+    "habitat": "Cave",
+    "microhabitat": "",
+    "designate": "Named after the type locality.",
+    "address": [
+      {
+        "province": "Phangnga",
+        "district": "Mueang",
+        "locality": "Tham Pung Chang",
+        "position": [
+          {
+            "name": "Tham Pung Chang",
+            "latitude": 8.442669,
+            "longitude": 98.515749
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Deeleman-Reinhold, C. L. (1995d). The Ochyroceratidae of the Indo-Pacific region (Araneae). Raffles Bulletin of Zoology, Supplement 2: 1-105"
+    ]
+  },
+  {
+    "family": "Ochyroceratidae",
+    "genus": "Speocera",
+    "species": "ranongensis",
+    "author": "Deeleman-Reinhold",
+    "publish_year": "1995",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "",
+    "method": "Extraction of soil",
+    "habitat": "Cave",
+    "microhabitat": "",
+    "designate": "Named after the type locality.",
+    "address": [
+      {
+        "province": "Ranong",
+        "district": "Kra Buri",
+        "locality": "Tham Phrakayang",
+        "position": [
+          {
+            "name": "Tham Phrakayang",
+            "latitude": 10.3626852887124,
+            "longitude": 98.7721884599249
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Deeleman-Reinhold, C. L. (1995d). The Ochyroceratidae of the Indo-Pacific region (Araneae). Raffles Bulletin of Zoology, Supplement 2: 1-105"
+    ]
+  },
+  {
+    "family": "Ochyroceratidae",
+    "genus": "Speocera",
+    "species": "stellafera",
+    "author": "Deeleman-Reinhold",
+    "publish_year": "1995",
+    "country": "Thailand",
+    "country_other": "Malaysia",
+    "altitude": "",
+    "method": "",
+    "habitat": "Cave",
+    "microhabitat": "",
+    "designate": "The name \"stellafera\" refers to the dark central spot on the carapace.",
+    "address": [
+      {
+        "province": "Krabi",
+        "district": "Aao Luk",
+        "locality": "Tham Lod",
+        "position": [
+          {
+            "name": "Tham Lod",
+            "latitude": 8.37981468595337,
+            "longitude": 98.6880609981025
+          }
+        ]
+      },
+      {
+        "province": "Saraburi",
+        "district": "Pak Chong",
+        "locality": "Pak Chong",
+        "position": [
+          {
+            "name": "Pak Chong",
+            "latitude": 14.7308448127738,
+            "longitude": 101.398776920974
+          }
+        ]
+      },
+      {
+        "province": "Ratchaburi",
+        "district": "Chom Bueng",
+        "locality": "Tham Thip",
+        "position": [
+          {
+            "name": "Tham Thip",
+            "latitude": 13.6687898732656,
+            "longitude": 99.369573630422
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Deeleman-Reinhold, C. L. (1995d). The Ochyroceratidae of the Indo-Pacific region (Araneae). Raffles Bulletin of Zoology, Supplement 2: 1-105"
+    ]
+  },
+  {
+    "family": "Ochyroceratidae",
+    "genus": "Speocera",
+    "species": "suea",
+    "author": "F. Y. Li & S. Q. Li",
+    "publish_year": "2019",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "43 m",
+    "method": "",
+    "habitat": "Forest",
+    "microhabitat": "",
+    "designate": "The specific name is derived from the type locality; noun.",
+    "address": [
+      {
+        "province": "Yala",
+        "district": "Mueang",
+        "locality": "Outside of Suea Cave",
+        "position": [
+          {
+            "name": "Outside of Suea Cave",
+            "latitude": 6.522583,
+            "longitude": 101.231085
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Tong, Y. F., Li, F. Y., Song, Y., Chen, H. F. & Li, S. Q. (2019a). Thirty-two new species of the genus Speocera Berland, 1914 (Araneae: Ochyroceratidae) from China, Madagascar and Southeast Asia. Zoological Systematics 44(1): 1-75. doi:10.11865/zs.201902"
+    ]
+  },
+  {
+    "family": "Ochyroceratidae",
+    "genus": "Speocera",
+    "species": "suratthaniensis",
+    "author": "Deeleman-Reinhold",
+    "publish_year": "1995",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "",
+    "method": "",
+    "habitat": "Cave",
+    "microhabitat": "",
+    "designate": "Named after the type locality.",
+    "address": [
+      {
+        "province": "Surat Thani",
+        "district": "Kanchanadit",
+        "locality": "Tham Khu Ha",
+        "position": [
+          {
+            "name": "Tham Khu Ha",
+            "latitude": 9.15,
+            "longitude": 99.666669
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Deeleman-Reinhold, C. L. (1995d). The Ochyroceratidae of the Indo-Pacific region (Araneae). Raffles Bulletin of Zoology, Supplement 2: 1-109"
+    ]
+  },
+  {
+    "family": "Ochyroceratidae",
+    "genus": "Speocera",
+    "species": "troglobia",
+    "author": "Deeleman-Reinhold",
+    "publish_year": "1995",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "",
+    "method": "",
+    "habitat": "Cave",
+    "microhabitat": "",
+    "designate": "The name refers to the troglobitic appearance.",
+    "address": [
+      {
+        "province": "Surat Thani",
+        "district": "Tha Chana",
+        "locality": "Tham Yai Cave",
+        "position": [
+          {
+            "name": "Tham Yai Cave",
+            "latitude": 8.1541076685523,
+            "longitude": 99.7244208217957
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Deeleman-Reinhold, C. L. (1995d). The Ochyroceratidae of the Indo-Pacific region (Araneae). Raffles Bulletin of Zoology, Supplement 2: 1-109"
+    ]
+  },
+  {
+    "family": "Oonopidae",
+    "genus": "Brignolia",
+    "species": "chumphae",
+    "author": "Platnick, Dup\u00e9rr\u00e9, Ott & Kranz-Baltensperger",
+    "publish_year": "2011",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "",
+    "method": "Sifting",
+    "habitat": "mixed deciduous forest",
+    "microhabitat": "",
+    "designate": "The specific name is a noun in apposition taken from the type locality.",
+    "address": [
+      {
+        "province": "Khon Kaen",
+        "district": "Chum Phae",
+        "locality": "Phu Pha Man National Park",
+        "position": [
+          {
+            "name": "300 m in front of Tham (cave) Phiang Din",
+            "latitude": 16.755906,
+            "longitude": 101.969383
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Platnick, N. I., Dup\u00e9rr\u00e9, N., Ott, R. & Kranz-Baltensperger, Y. (2011). The goblin spider genus Brignolia (Araneae, Oonopidae). Bulletin of the American Museum of Natural History 349: 1-131. doi:10.1206/743.1"
+    ]
+  },
+  {
+    "family": "Oonopidae",
+    "genus": "Brignolia",
+    "species": "diablo",
+    "author": "Platnick, Dup\u00e9rr\u00e9, Ott & Kranz-Baltensperger",
+    "publish_year": "2011",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "",
+    "method": "",
+    "habitat": "mixed deciduous forest",
+    "microhabitat": "bamboo thicket",
+    "designate": "The specific name is a noun in apposition taken from the Spanish for devil, and refers to the horned carapace.",
+    "address": [
+      {
+        "province": "Phetchabun",
+        "district": "Nam Nao",
+        "locality": "Nam Nao National Park",
+        "position": [
+          {
+            "name": "Nam Nao National Park",
+            "latitude": 16.739799,
+            "longitude": 101.574236
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Platnick, N. I., Dup\u00e9rr\u00e9, N., Ott, R. & Kranz-Baltensperger, Y. (2011). The goblin spider genus Brignolia (Araneae, Oonopidae). Bulletin of the American Museum of Natural History 349: 1-131. doi:10.1206/743.1"
+    ]
+  },
+  {
+    "family": "Oonopidae",
+    "genus": "Brignolia",
+    "species": "mapha",
+    "author": "Platnick, Dup\u00e9rr\u00e9, Ott & Kranz-Baltensperger",
+    "publish_year": "2011",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "830 m",
+    "method": "",
+    "habitat": "Road",
+    "microhabitat": "",
+    "designate": "The specific name is a noun in apposition taken from the type locality.",
+    "address": [
+      {
+        "province": "Chiang Mai",
+        "district": "Pang Mapha",
+        "locality": "Pang Mapha",
+        "position": [
+          {
+            "name": "km 133.2 on road from Pai to Mae Hong Song",
+            "latitude": 19.535194696251,
+            "longitude": 98.1218805510776
+          }
+        ]
+      },
+      {
+        "province": "Mae Hong Son",
+        "district": "Pang Mapha",
+        "locality": "Tom Lok",
+        "position": [
+          {
+            "name": "8 km N Mae Lang",
+            "latitude": 19.5264573310143,
+            "longitude": 98.2412134284843
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Platnick, N. I., Dup\u00e9rr\u00e9, N., Ott, R. & Kranz-Baltensperger, Y. (2011). The goblin spider genus Brignolia (Araneae, Oonopidae). Bulletin of the American Museum of Natural History 349: 1-131. doi:10.1206/743.1"
+    ]
+  },
+  {
+    "family": "Oonopidae",
+    "genus": "Brignolia",
+    "species": "suthep",
+    "author": "Platnick, Dup\u00e9rr\u00e9, Ott & Kranz-Baltensperger",
+    "publish_year": "2011",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "1180 m",
+    "method": "Pitfall trap",
+    "habitat": "Evergreen hill forest",
+    "microhabitat": "",
+    "designate": "The specific name is a noun in apposition taken from the type locality.",
+    "address": [
+      {
+        "province": "Chiang Mai",
+        "district": "Mueang",
+        "locality": "Doi Suthep-Pui National Park",
+        "position": [
+          {
+            "name": "Doi Suthep",
+            "latitude": 18.824431,
+            "longitude": 98.895295
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Platnick, N. I., Dup\u00e9rr\u00e9, N., Ott, R. & Kranz-Baltensperger, Y. (2011). The goblin spider genus Brignolia (Araneae, Oonopidae). Bulletin of the American Museum of Natural History 349: 1-131. doi:10.1206/743.1"
+    ]
+  },
+  {
+    "family": "Oonopidae",
+    "genus": "Camptoscaphiella",
+    "species": "schwendingeri",
+    "author": "Baehr",
+    "publish_year": "2010",
+    "country": "Thailand",
+    "country_other": "China",
+    "altitude": "1120 m",
+    "method": "",
+    "habitat": "Cave",
+    "microhabitat": "",
+    "designate": "The specific name is a patronym in honor of Peter Schwendinger who sur_x0002_veyed the soil-dwelling arthropod fauna of Southeast Asia for many years and who collected a specimen of this species.",
+    "address": [
+      {
+        "province": "Chiang Rai",
+        "district": "Mae Sai",
+        "locality": "Tham (Cave) Pla",
+        "position": [
+          {
+            "name": "Tham (Cave) Pla",
+            "latitude": 20.33333,
+            "longitude": 99.86668
+          }
+        ]
+      },
+      {
+        "province": "Loei",
+        "district": "Phu Rua",
+        "locality": "Phu Rua National Park",
+        "position": [
+          {
+            "name": "Phu Rua National Park",
+            "latitude": 17.5,
+            "longitude": 101.5
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Baehr, B. C. & Ubick, D. (2010). A review of the Asian goblin spider genus Camptoscaphiella (Araneae: Oonopidae). American Museum Novitates 3697: 1-65. doi:10.1206/3697.2"
+    ]
+  },
+  {
+    "family": "Oonopidae",
+    "genus": "Dysderoides",
+    "species": "kaew",
+    "author": "Grismado & Deeleman",
+    "publish_year": "2014",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "",
+    "method": "",
+    "habitat": "Cave",
+    "microhabitat": "Stone",
+    "designate": "The specific name is a noun in apposition taken from the type locality.",
+    "address": [
+      {
+        "province": "Kanchanaburi",
+        "district": "Sai Yok",
+        "locality": "Sai Yok National Park",
+        "position": [
+          {
+            "name": "Tham Kaew",
+            "latitude": 14.43333,
+            "longitude": 98.86668
+          },
+          {
+            "name": "Tham Khang Khao",
+            "latitude": 14.41666,
+            "longitude": 98.88333
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Grismado, C. J., Deeleman-Reinhold, C. L., Piacentini, L. N., Izquierdo, M. A. & Ram\u00edrez, M. J. (2014). Taxonomic review of the goblin spiders of the genus Dysderoides Fage and their Himalayan relatives of the genera Trilacuna Tong and Li and Himalayana, new genus (Araneae, Oonopidae). Bulletin of the American Museum of Natural History 387: 1-108. doi:10.5531/sd.sp.1"
+    ]
+  },
+  {
+    "family": "Oonopidae",
+    "genus": "Dysderoides",
+    "species": "kanoi",
+    "author": "Grismado & Deeleman",
+    "publish_year": "2014",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "",
+    "method": "",
+    "habitat": "Cave",
+    "microhabitat": "Stone",
+    "designate": "The specific name is a noun in apposition taken from the type locality.",
+    "address": [
+      {
+        "province": "Mae Hong Son",
+        "district": "Khun Yuam",
+        "locality": "Khun Yuam",
+        "position": [
+          {
+            "name": "Tham Mae La Ka Noi",
+            "latitude": 18.63333,
+            "longitude": 97.95002
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Grismado, C. J., Deeleman-Reinhold, C. L., Piacentini, L. N., Izquierdo, M. A. & Ram\u00edrez, M. J. (2014). Taxonomic review of the goblin spiders of the genus Dysderoides Fage and their Himalayan relatives of the genera Trilacuna Tong and Li and Himalayana, new genus (Araneae, Oonopidae). Bulletin of the American Museum of Natural History 387: 1-108. doi:10.5531/sd.sp.1"
+    ]
+  },
+  {
+    "family": "Oonopidae",
+    "genus": "Dysderoides",
+    "species": "lawa",
+    "author": "Grismado & Deeleman",
+    "publish_year": "2014",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "",
+    "method": "",
+    "habitat": "Cave",
+    "microhabitat": "",
+    "designate": "The specific name is a noun in apposition taken from the type locality.",
+    "address": [
+      {
+        "province": "Kanchanaburi",
+        "district": "Sai Yok",
+        "locality": "Tham Lawa",
+        "position": [
+          {
+            "name": "Ban Nam, near Tok",
+            "latitude": 14.295597,
+            "longitude": 98.981728
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Grismado, C. J., Deeleman-Reinhold, C. L., Piacentini, L. N., Izquierdo, M. A. & Ram\u00edrez, M. J. (2014). Taxonomic review of the goblin spiders of the genus Dysderoides Fage and their Himalayan relatives of the genera Trilacuna Tong and Li and Himalayana, new genus (Araneae, Oonopidae). Bulletin of the American Museum of Natural History 387: 1-108. doi:10.5531/sd.sp.1"
+    ]
+  },
+  {
+    "family": "Oonopidae",
+    "genus": "Dysderoides",
+    "species": "muang",
+    "author": "Grismado & Deeleman",
+    "publish_year": "2014",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "",
+    "method": "",
+    "habitat": "Cave",
+    "microhabitat": "Humas",
+    "designate": "The specific name is a noun in apposition taken from the type locality.",
+    "address": [
+      {
+        "province": "Chiang Mai",
+        "district": "San Kamphaeng",
+        "locality": "Tham Muang On",
+        "position": [
+          {
+            "name": "Near the village of Ban On huoy",
+            "latitude": 18.788644,
+            "longitude": 99.238053
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Grismado, C. J., Deeleman-Reinhold, C. L., Piacentini, L. N., Izquierdo, M. A. & Ram\u00edrez, M. J. (2014). Taxonomic review of the goblin spiders of the genus Dysderoides Fage and their Himalayan relatives of the genera Trilacuna Tong and Li and Himalayana, new genus (Araneae, Oonopidae). Bulletin of the American Museum of Natural History 387: 1-108. doi:10.5531/sd.sp.1"
+    ]
+  },
+  {
+    "family": "Oonopidae",
+    "genus": "Pelicinus",
+    "species": "deelemanae",
+    "author": "Platnick, Dup\u00e9rr\u00e9, Ott, Baehr & Kranz-Baltensperger",
+    "publish_year": "2012",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "",
+    "method": "Leaf litter",
+    "habitat": "",
+    "microhabitat": "",
+    "designate": "The specific name is a patronym in honor of one of the collectors, Christa Deeleman.",
+    "address": [
+      {
+        "province": "Prachuap Khiri Khan",
+        "district": "Kui Buri",
+        "locality": "Sam Roi Yot National Park",
+        "position": [
+          {
+            "name": "Sam Roi Yot National Park",
+            "latitude": 12.1287952960434,
+            "longitude": 99.9536784281065
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Platnick, N. I., Dup\u00e9rr\u00e9, N., Ott, R., Baehr, B. C. & Kranz-Baltensperger, Y. (2012b). The goblin spider genus Pelicinus (Araneae, Oonopidae), Part 1. American Museum Novitates 3741: 1-43. doi:10.1206/3741.2"
+    ]
+  },
+  {
+    "family": "Oonopidae",
+    "genus": "Pelicinus",
+    "species": "khao",
+    "author": "Platnick, Dup\u00e9rr\u00e9, Ott, Baehr & Kranz-Baltensperger",
+    "publish_year": "2012",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "1150 m, 800 m",
+    "method": "Thin litter",
+    "habitat": "Primary forest",
+    "microhabitat": "",
+    "designate": "The specific name is a patronym in honor of one of the collectors, Christa Deeleman.",
+    "address": [
+      {
+        "province": "Nakhon Ratchasima",
+        "district": "Pak Chong",
+        "locality": "Khao Yai National Park",
+        "position": [
+          {
+            "name": "Khao Yai National Park",
+            "latitude": 14.3111411872848,
+            "longitude": 101.530377128866
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Platnick, N. I., Dup\u00e9rr\u00e9, N., Ott, R., Baehr, B. C. & Kranz-Baltensperger, Y. (2012b). The goblin spider genus Pelicinus (Araneae, Oonopidae), Part 1. American Museum Novitates 3741: 1-43. doi:10.1206/3741.2"
+    ]
+  },
+  {
+    "family": "Oonopidae",
+    "genus": "Pelicinus",
+    "species": "sayam",
+    "author": "Platnick, Dup\u00e9rr\u00e9, Ott, Baehr & Kranz-Baltensperger",
+    "publish_year": "2012",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "20-80 m",
+    "method": "",
+    "habitat": "",
+    "microhabitat": "",
+    "designate": "The specific name is a patronym in honor of one of the collectors, Christa Deeleman.",
+    "address": [
+      {
+        "province": "Trat",
+        "district": "Laem Ngop",
+        "locality": "Chang Island",
+        "position": [
+          {
+            "name": "Ko Chang National Park",
+            "latitude": 12.085312,
+            "longitude": 102.308545
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Platnick, N. I., Dup\u00e9rr\u00e9, N., Ott, R., Baehr, B. C. & Kranz-Baltensperger, Y. (2012b). The goblin spider genus Pelicinus (Araneae, Oonopidae), Part 1. American Museum Novitates 3741: 1-43. doi:10.1206/3741.2"
+    ]
+  },
+  {
+    "family": "Oonopidae",
+    "genus": "Pelicinus",
+    "species": "schwendingeri",
+    "author": "Platnick, Dup\u00e9rr\u00e9, Ott, Baehr & Kranz-Baltensperger",
+    "publish_year": "2012",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "60-80 m",
+    "method": "",
+    "habitat": "Semi-evergreen rainforest",
+    "microhabitat": "Limestone hill",
+    "designate": "The specific name is a patronym in honor of the collector, Peter Schwendinger.",
+    "address": [
+      {
+        "province": "Krabi",
+        "district": "Aao Luk",
+        "locality": "Ao Luk Tai",
+        "position": [
+          {
+            "name": "Ao Luk Tai",
+            "latitude": 8.367222,
+            "longitude": 98.738058
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Platnick, N. I., Dup\u00e9rr\u00e9, N., Ott, R., Baehr, B. C. & Kranz-Baltensperger, Y. (2012b). The goblin spider genus Pelicinus (Araneae, Oonopidae), Part 1. American Museum Novitates 3741: 1-43. doi:10.1206/3741.2"
+    ]
+  },
+  {
+    "family": "Oonopidae",
+    "genus": "Trilacuna",
+    "species": "alces",
+    "author": "Eichenberger",
+    "publish_year": "2011",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "2000 m",
+    "method": "",
+    "habitat": "Evergreen montaine forest",
+    "microhabitat": "Remnant patch",
+    "designate": "The species epithet, a noun in apposition, is the Latin word for moose and refers to the shape of the embolus-conductor-complex which, when observed under a stereomicroscope from the dorsal side, looks like the antlers of an moose",
+    "address": [
+      {
+        "province": "Chiang Mai",
+        "district": "Fang",
+        "locality": "Doi Pha Hom Pok",
+        "position": [
+          {
+            "name": "Doi Pha Hom Pok",
+            "latitude": 20.04525,
+            "longitude": 99.145224
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Eichenberger, B. & Kranz-Baltensperger, Y. (2011). New Trilacuna species from Thailand, Malaysia and Sumatra (Araneae, Oonopidae). Zootaxa 2823: 1-31. doi:10.11646/zootaxa.2823.1.1"
+    ]
+  },
+  {
+    "family": "Oonopidae",
+    "genus": "Trilacuna",
+    "species": "kropfi",
+    "author": "Eichenberger",
+    "publish_year": "2011",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "700 m",
+    "method": "",
+    "habitat": "",
+    "microhabitat": "",
+    "designate": "The species is dedicated to the Austrian arachnologist Christian Kropf, who is the head of the Invertebrate Department at the Natural History Museum Bern, Switzerland",
+    "address": [
+      {
+        "province": "Mae Hong Son",
+        "district": "Pang Mapha",
+        "locality": "Nam Lod Cave",
+        "position": [
+          {
+            "name": "Nam Lod Cave",
+            "latitude": 19.5656038698527,
+            "longitude": 98.2791620454419
+          }
+        ]
+      },
+      {
+        "province": "Chiang Mai",
+        "district": "Chiang Dao",
+        "locality": "Doi Chiang Dao",
+        "position": [
+          {
+            "name": "Doi Chiang Dao",
+            "latitude": 19.4006116131384,
+            "longitude": 98.8765812186819
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Eichenberger, B. & Kranz-Baltensperger, Y. (2011). New Trilacuna species from Thailand, Malaysia and Sumatra (Araneae, Oonopidae). Zootaxa 2823: 1-31. doi:10.11646/zootaxa.2823.1.1"
+    ]
+  },
+  {
+    "family": "Oonopidae",
+    "genus": "Trilacuna",
+    "species": "werni",
+    "author": "Eichenberger",
+    "publish_year": "2011",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "2000 m",
+    "method": "",
+    "habitat": "",
+    "microhabitat": "",
+    "designate": "The species epithet refers to the first name of Werner Graber (nickname Werni) who is currently working at the Anatomical Institute of Bern, Switzerland, in the Department of Topographic Anatomy and Neuro_x0002_anatomy",
+    "address": [
+      {
+        "province": "Chiang Mai",
+        "district": "Chomthong",
+        "locality": "Doi Inthanon National Park",
+        "position": [
+          {
+            "name": "Doi Inthanon National Park",
+            "latitude": 18.5372527558375,
+            "longitude": 98.5225052826171
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Eichenberger, B. & Kranz-Baltensperger, Y. (2011). New Trilacuna species from Thailand, Malaysia and Sumatra (Araneae, Oonopidae). Zootaxa 2823: 1-31. doi:10.11646/zootaxa.2823.1.1"
+    ]
+  },
+  {
+    "family": "Oonopidae",
+    "genus": "Xestaspis",
+    "species": "biflocci",
+    "author": "Eichenberger",
+    "publish_year": "2012",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "100-300 m",
+    "method": "",
+    "habitat": "Primary moist forest",
+    "microhabitat": "Waterfall",
+    "designate": "The species epithet is a noun in apposition and refers to the posterolateral hair tufts on the carapace and is composed of the Latin word bi and the English plural noun flocci",
+    "address": [
+      {
+        "province": "Phangnga",
+        "district": "Takua Pa",
+        "locality": "Khao Lak National Park",
+        "position": [
+          {
+            "name": "Tone Chong Fa Fall",
+            "latitude": 8.666667,
+            "longitude": 98.5
+          }
+        ]
+      },
+      {
+        "province": "Krabi",
+        "district": "Mueang",
+        "locality": "Khao Phanom Bencha National Park",
+        "position": [
+          {
+            "name": "Khao Phanom Bencha National Park",
+            "latitude": 8.240057,
+            "longitude": 98.914139
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Eichenberger, B., Kranz-Baltensperger, Y., Ott, R., Graber, W., Nentwig, W. & Kropf, C. (2012). Morphology of new Indian/Indonesian Gamasomorpha and Xestaspis species (Araneae: Oonopidae). Zootaxa 3160: 1-68."
+    ]
+  },
+  {
+    "family": "Oonopidae",
+    "genus": "Xyphinus",
+    "species": "distortus",
+    "author": "Kranz-Baltensperger",
+    "publish_year": "2014",
+    "country": "Thailand",
+    "country_other": "Malaysia",
+    "altitude": "200 m",
+    "method": "",
+    "habitat": "Rainforest",
+    "microhabitat": "",
+    "designate": "The specific name is a latin adjective meaning \u201ctwisted\u201d and refers to the shape of the male palp.",
+    "address": [
+      {
+        "province": "Narathiwat",
+        "district": "Waeng",
+        "locality": "Hala-Bala, Wildlife Sanctuary",
+        "position": [
+          {
+            "name": "Sirinthorn Waterfall",
+            "latitude": 5.769322,
+            "longitude": 101.816412
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Kranz-Baltensperger, Y. (2014). The goblin spider genus Xyphinus (Araneae; Oonopidae). Zootaxa 3870(1): 1-79."
+    ]
+  },
+  {
+    "family": "Oonopidae",
+    "genus": "Xyphinus",
+    "species": "holgeri",
+    "author": "Kranz-Baltensperger",
+    "publish_year": "2014",
+    "country": "Thailand",
+    "country_other": "Laos, Malaysia, Indonesia (Borneo), Brunei",
+    "altitude": "1080 m",
+    "method": "Sweep net, Sieving, Hand, WINKLER-extraction",
+    "habitat": "Rainforest",
+    "microhabitat": "",
+    "designate": "The species is dedicated to Dr. Holger Frick from the Liechtensteinisches Landesmuseum, Liechtenstein.",
+    "address": [
+      {
+        "province": "Chiang Mai",
+        "district": "Mae Rim",
+        "locality": "Ban Mae Sa Mai",
+        "position": [
+          {
+            "name": "Ban Mae Sa Mai",
+            "latitude": 18.9841929616735,
+            "longitude": 98.8106849672557
+          }
+        ]
+      },
+      {
+        "province": "Chanthaburi",
+        "district": "Laem Sing",
+        "locality": "Phliu Waterfall",
+        "position": [
+          {
+            "name": "Forest near Phliu Waterfall",
+            "latitude": 12.356389,
+            "longitude": 102.173613
+          }
+        ]
+      },
+      {
+        "province": "Chanthaburi",
+        "district": "Mueang",
+        "locality": "Nam Tok Phliu National Park",
+        "position": [
+          {
+            "name": "Nam Tok Phliu National Park",
+            "latitude": 12.529541,
+            "longitude": 102.184208
+          }
+        ]
+      },
+      {
+        "province": "Kanchanaburi",
+        "district": "Thong Pha Phum",
+        "locality": "Pilok Mine",
+        "position": [
+          {
+            "name": "Pilok Mine",
+            "latitude": 14.677508,
+            "longitude": 98.367665
+          }
+        ]
+      },
+      {
+        "province": "Prachuap Khiri Khan",
+        "district": "Thap Sakae",
+        "locality": "Nam Tok Huay Yang National Park",
+        "position": [
+          {
+            "name": "Nam Tok Huay Yang National Park",
+            "latitude": 11.625205,
+            "longitude": 99.613478
+          }
+        ]
+      },
+      {
+        "province": "Phuket",
+        "district": "Kathu",
+        "locality": "Kathu Waterfall",
+        "position": [
+          {
+            "name": "Kathu Waterfall",
+            "latitude": 7.934356,
+            "longitude": 98.322896
+          }
+        ]
+      },
+      {
+        "province": "Trat",
+        "district": "Ko Chang",
+        "locality": "Ko Chang",
+        "position": [
+          {
+            "name": "Kheeri Phet",
+            "latitude": 12.007667,
+            "longitude": 102.352558
+          },
+          {
+            "name": "west side",
+            "latitude": 12.05,
+            "longitude": 102.3
+          }
+        ]
+      },
+      {
+        "province": "Trat",
+        "district": "Laem Ngop",
+        "locality": "Ko Chang",
+        "position": [
+          {
+            "name": "San Sai Beach",
+            "latitude": 12.132765,
+            "longitude": 102.301369
+          }
+        ]
+      },
+      {
+        "province": "Surat Thani",
+        "district": "Ko Samui",
+        "locality": "Samui Island",
+        "position": [
+          {
+            "name": "Na Muang Waterfall",
+            "latitude": 9.466686,
+            "longitude": 99.983731
+          }
+        ]
+      },
+      {
+        "province": "Chon Buri",
+        "district": "Si Racha",
+        "locality": "Khao Khieo Wildlife Sanctuary",
+        "position": [
+          {
+            "name": "Khao Khieo Wildlife Sanctuary",
+            "latitude": 13.21462,
+            "longitude": 101.056949
+          }
+        ]
+      },
+      {
+        "province": "Nakhon Si Thammarat",
+        "district": "Thung Song",
+        "locality": "Namtok Yong National Park",
+        "position": [
+          {
+            "name": "Campground lavatory",
+            "latitude": 8.1739,
+            "longitude": 99.742
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Kranz-Baltensperger, Y. (2014). The goblin spider genus Xyphinus (Araneae; Oonopidae). Zootaxa 3870(1): 1-79."
+    ]
+  },
+  {
+    "family": "Oonopidae",
+    "genus": "Xyphinus",
+    "species": "karschi",
+    "author": "B\u00f6senberg & Strand",
+    "publish_year": "1906",
+    "country": "Thailand",
+    "country_other": "China, Taiwan, Japan",
+    "altitude": "250 m",
+    "method": "",
+    "habitat": "forest",
+    "microhabitat": "At the foot",
+    "designate": "",
+    "address": [
+      {
+        "province": "Sukhothai",
+        "district": "Khiri Mat",
+        "locality": "Ramkamhaeng National Park",
+        "position": [
+          {
+            "name": "Khao Luang",
+            "latitude": 16.8693470745943,
+            "longitude": 99.6539713141243
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Kranz-Baltensperger, Y. (2014). The goblin spider genus Xyphinus (Araneae; Oonopidae). Zootaxa 3870(1): 1-79."
+    ]
+  },
+  {
+    "family": "Oonopidae",
+    "genus": "Xyphinus",
+    "species": "krabi",
+    "author": "Kranz-Baltensperger",
+    "publish_year": "2014",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "100-190 m",
+    "method": "",
+    "habitat": "Evergreen rain forest",
+    "microhabitat": "",
+    "designate": "",
+    "address": [
+      {
+        "province": "Krabi",
+        "district": "Mueang",
+        "locality": "Khao Phanom Bencha National Park",
+        "position": [
+          {
+            "name": "Khao Phanom Bencha National Park",
+            "latitude": 8.24032285456393,
+            "longitude": 98.9142010452332
+          }
+        ]
+      },
+      {
+        "province": "Phangnga",
+        "district": "Takua Pa",
+        "locality": "Khao Lak National Park",
+        "position": [
+          {
+            "name": "Tone Chong Fa Fall",
+            "latitude": 8.666667,
+            "longitude": 98.5
+          }
+        ]
+      },
+      {
+        "province": "Phangnga",
+        "district": "Ko Yao",
+        "locality": "Ko Yao Noi",
+        "position": [
+          {
+            "name": "Ko Yao Noi",
+            "latitude": 8.183333,
+            "longitude": 98.641669
+          }
+        ]
+      },
+      {
+        "province": "Krabi",
+        "district": "Ao Luk",
+        "locality": "Ao Luk Tai",
+        "position": [
+          {
+            "name": "Ao Luk Tai",
+            "latitude": 8.367222,
+            "longitude": 98.738058
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Kranz-Baltensperger, Y. (2014). The goblin spider genus Xyphinus (Araneae; Oonopidae). Zootaxa 3870(1): 1-79."
+    ]
+  },
+  {
+    "family": "Oonopidae",
+    "genus": "Xyphinus",
+    "species": "rogerfedereri",
+    "author": "Kranz-Baltensperger",
+    "publish_year": "2014",
+    "country": "Thailand",
+    "country_other": "Malaysia",
+    "altitude": "150 m",
+    "method": "Sifting",
+    "habitat": "Evergreen rain forest",
+    "microhabitat": "",
+    "designate": "Because of the male palpal apophysis, which resembles a tennis racket, this species is dedicated to Roger Federer, the best tennis player ever.",
+    "address": [
+      {
+        "province": "Yala",
+        "district": "Than To",
+        "locality": "Banglang National Park",
+        "position": [
+          {
+            "name": "Than to Waterfall",
+            "latitude": 6.178155,
+            "longitude": 101.203389
+          }
+        ]
+      },
+      {
+        "province": "Trang",
+        "district": "Nayong",
+        "locality": "Khao Banthat Wildlife Sanctuary",
+        "position": [
+          {
+            "name": "Phrai Sawan Waterfall",
+            "latitude": 7.41580586827893,
+            "longitude": 99.845604173217
+          },
+          {
+            "name": "Ton Pliw Waterfall",
+            "latitude": 7.521625,
+            "longitude": 99.805955
+          }
+        ]
+      },
+      {
+        "province": "Nakhon Si Thammarat",
+        "district": "Lan Saka",
+        "locality": "Khao Luang National Park",
+        "position": [
+          {
+            "name": "Karom Waterfall",
+            "latitude": 8.379194,
+            "longitude": 99.73953
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Kranz-Baltensperger, Y. (2014). The goblin spider genus Xyphinus (Araneae; Oonopidae). Zootaxa 3870(1): 1-79."
+    ]
+  },
+  {
+    "family": "Oxyopidae",
+    "genus": "Hamataliwa",
+    "species": "helia",
+    "author": "Chamberlin",
+    "publish_year": "1929",
+    "country": "Thailand",
+    "country_other": "USA, Mexico, Guyana, Malaysia (Sarawak), Brunei, Indonesia (Sumatra)",
+    "altitude": "",
+    "method": "Sweeping glass",
+    "habitat": "Beach",
+    "microhabitat": "",
+    "designate": "",
+    "address": [
+      {
+        "province": "Krabi",
+        "district": "Ao Nang",
+        "locality": "Noppharat Thara Beach",
+        "position": [
+          {
+            "name": "Noppharat Thara Beach",
+            "latitude": 8.045991,
+            "longitude": 98.798309
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Deeleman-Reinhold, C. L. (2009a). Description of the lynx spiders of a canopy fogging project in northern Borneo (Araneae: Oxyopidae), with description of a new genus and six new species of Hamataliwa. Zoologische Mededelingen 83: 673-700."
+    ]
+  },
+  {
+    "family": "Oxyopidae",
+    "genus": "Hamataliwa",
+    "species": "incompta",
+    "author": "Thorell",
+    "publish_year": "1895",
+    "country": "Thailand",
+    "country_other": "India, Myanmar, Malaysia, Philippines, Indonesia (Borneo)",
+    "altitude": "",
+    "method": "Sweeping glass",
+    "habitat": "Beach",
+    "microhabitat": "",
+    "designate": "",
+    "address": [
+      {
+        "province": "Krabi",
+        "district": "Ao Nang",
+        "locality": "Noppharat Thara Beach",
+        "position": [
+          {
+            "name": "Noppharat Thara Beach",
+            "latitude": 8.045991,
+            "longitude": 98.79831
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Deeleman-Reinhold, C. L. (2009a). Description of the lynx spiders of a canopy fogging project in northern Borneo (Araneae: Oxyopidae), with description of a new genus and six new species of Hamataliwa. Zoologische Mededelingen 83: 673-700."
+    ]
+  },
+  {
+    "family": "Pacullidae",
+    "genus": "Lamania",
+    "species": "kraui",
+    "author": "Shear",
+    "publish_year": "1978",
+    "country": "Thailand",
+    "country_other": "Malaysia",
+    "altitude": "200 m",
+    "method": "",
+    "habitat": "Rainforest",
+    "microhabitat": "",
+    "designate": "",
+    "address": [
+      {
+        "province": "Narathiwat",
+        "district": "Waeng",
+        "locality": "Hala-Bala Wildlife Sanctuary",
+        "position": [
+          {
+            "name": "Hala-Bala Wildlife Sanctuary",
+            "latitude": 5.807863,
+            "longitude": 101.845019
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Schwendinger, P. J. & Ko\u0161uli\u010d, O. (2015). Two new species of armoured spiders from Vietnam and Cambodia (Araneae: Tetrablemmidae: Pacullinae). Revue Suisse de Zoologie 122(2): 423-436."
+    ]
+  },
+  {
+    "family": "Pacullidae",
+    "genus": "Perania",
+    "species": "egregia",
+    "author": "Schwendinger",
+    "publish_year": "2013",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "850 m",
+    "method": "",
+    "habitat": "Evergreen gallery forest with bamboo stands",
+    "microhabitat": "Earth banks on both sides of a small stream",
+    "designate": "Latin adjective \u201cegregius, -a, -um\u201d (= outstanding, distin_x0002_guished). The species epithet refers to the unusual palpal characters of males of this species.",
+    "address": [
+      {
+        "province": "Phetchabun",
+        "district": "Lom Sak",
+        "locality": "Nam Nao National Park",
+        "position": [
+          {
+            "name": "Rivulet near park headquarters",
+            "latitude": 16.7425,
+            "longitude": 101.57028
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Schwendinger, P. J. (2013b). A taxonomic revision of the spider genus Perania Thorell, 1890 (Araneae: Tetrablemmidae: Pacullinae) with the descriptions of eight new species. Revue Suisse de Zoologie 120(4): 585-663."
+    ]
+  },
+  {
+    "family": "Pacullidae",
+    "genus": "Perania",
+    "species": "ferox",
+    "author": "Schwendinger",
+    "publish_year": "2013",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "1270 m",
+    "method": "",
+    "habitat": "Evergreen gallery forest with bamboo stands",
+    "microhabitat": "Steep banks of a small stream",
+    "designate": "Latin adjective \u201cferox\u201d = fierce; referring to the aggressive defence behaviour of this species.",
+    "address": [
+      {
+        "province": "Tak",
+        "district": "Mae Sot",
+        "locality": "Road to Mae Sot",
+        "position": [
+          {
+            "name": "km 121 on road",
+            "latitude": 16.233333,
+            "longitude": 98.983335
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Schwendinger, P. J. (2013b). A taxonomic revision of the spider genus Perania Thorell, 1890 (Araneae: Tetrablemmidae: Pacullinae) with the descriptions of eight new species. Revue Suisse de Zoologie 120(4): 585-663."
+    ]
+  },
+  {
+    "family": "Pacullidae",
+    "genus": "Perania",
+    "species": "nasicornis",
+    "author": "Schwendinger",
+    "publish_year": "1994",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "1250 m",
+    "method": "",
+    "habitat": "",
+    "microhabitat": "",
+    "designate": "",
+    "address": [
+      {
+        "province": "Lamphun",
+        "district": "Mae Tha",
+        "locality": "Doi Khuntan",
+        "position": [
+          {
+            "name": "Doi Khuntan",
+            "latitude": 18.489722,
+            "longitude": 99.298613
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Schwendinger, P. J. (2013b). A taxonomic revision of the spider genus Perania Thorell, 1890 (Araneae: Tetrablemmidae: Pacullinae) with the descriptions of eight new species. Revue Suisse de Zoologie 120(4): 585-663."
+    ]
+  },
+  {
+    "family": "Pacullidae",
+    "genus": "Perania",
+    "species": "nasuta",
+    "author": "Schwendinger",
+    "publish_year": "1989",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "1700 m",
+    "method": "",
+    "habitat": "Evergreen hill forest",
+    "microhabitat": "Earth bank at the side of a road",
+    "designate": "",
+    "address": [
+      {
+        "province": "Chiang Mai",
+        "district": "Chomthong",
+        "locality": "Doi inthanon",
+        "position": [
+          {
+            "name": "Doi inthanon",
+            "latitude": 18.525833,
+            "longitude": 98.497224
+          }
+        ]
+      },
+      {
+        "province": "Chiang Mai",
+        "district": "Mueang",
+        "locality": "Doi Suthep-Pui",
+        "position": [
+          {
+            "name": "Ravine near Chang Khian agricultural station",
+            "latitude": 18.835833,
+            "longitude": 98.896391
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Schwendinger, P. J. (2013b). A taxonomic revision of the spider genus Perania Thorell, 1890 (Araneae: Tetrablemmidae: Pacullinae) with the descriptions of eight new species. Revue Suisse de Zoologie 120(4): 585-663."
+    ]
+  },
+  {
+    "family": "Pacullidae",
+    "genus": "Perania",
+    "species": "quadrifurcata",
+    "author": "Schwendinger",
+    "publish_year": "2013",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "200 m, 200 m",
+    "method": "",
+    "habitat": "Evergreen gallery forest near streams and waterfalls",
+    "microhabitat": "Earthbanks or limestone rocks covered by moss",
+    "designate": "Latin adjective \u201cquadrifurcatus, -a, -um\u201d (= 4-forked). The species name refers to the unique shape of the embolus, the apex of which is divided into four tips.",
+    "address": [
+      {
+        "province": "Kanchanaburi",
+        "district": "Sai Yok",
+        "locality": "Sai Yok Noi Waterfall",
+        "position": [
+          {
+            "name": "Sai Yok Noi Waterfall",
+            "latitude": 14.237778,
+            "longitude": 99.05778
+          }
+        ]
+      },
+      {
+        "province": "Kanchanaburi",
+        "district": "Sangkhlaburi",
+        "locality": "Daichongthong Waterfall",
+        "position": [
+          {
+            "name": "Daichongthong Waterfall",
+            "latitude": 14.983333,
+            "longitude": 98.8
+          }
+        ]
+      },
+      {
+        "province": "Phetchaburi",
+        "district": "Kaeng Krachan",
+        "locality": "Kaeng Krachan National Park",
+        "position": [
+          {
+            "name": "Khao Phanoen Thung, orchid trail",
+            "latitude": 12.886667,
+            "longitude": 99.365835
+          }
+        ]
+      },
+      {
+        "province": "Nakhon Ratchasima",
+        "district": "Wang Nam Khiao",
+        "locality": "Sakaerat Biosphere Reserve",
+        "position": [
+          {
+            "name": "Wang Nam Khiao Forestry Training Campus",
+            "latitude": 14.495556,
+            "longitude": 101.938058
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Schwendinger, P. J. (2013b). A taxonomic revision of the spider genus Perania Thorell, 1890 (Araneae: Tetrablemmidae: Pacullinae) with the descriptions of eight new species. Revue Suisse de Zoologie 120(4): 585-663."
+    ]
+  },
+  {
+    "family": "Pacullidae",
+    "genus": "Perania",
+    "species": "robusta",
+    "author": "Schwendinger",
+    "publish_year": "1989",
+    "country": "Thailand",
+    "country_other": "China",
+    "altitude": "1450 m",
+    "method": "",
+    "habitat": "",
+    "microhabitat": "",
+    "designate": "",
+    "address": [
+      {
+        "province": "Chiang Mai",
+        "district": "Fang",
+        "locality": "Doi Angkhang",
+        "position": [
+          {
+            "name": "Doi Angkhang",
+            "latitude": 19.894167,
+            "longitude": 99.041113
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Schwendinger, P. J. (2013b). A taxonomic revision of the spider genus Perania Thorell, 1890 (Araneae: Tetrablemmidae: Pacullinae) with the descriptions of eight new species. Revue Suisse de Zoologie 120(4): 585-663."
+    ]
+  },
+  {
+    "family": "Pacullidae",
+    "genus": "Perania",
+    "species": "siamensis",
+    "author": "Schwendinger",
+    "publish_year": "1994",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "50 m, 50 m",
+    "method": "",
+    "habitat": "",
+    "microhabitat": "",
+    "designate": "",
+    "address": [
+      {
+        "province": "Ranong",
+        "district": "Mueang",
+        "locality": "Had sompaen",
+        "position": [
+          {
+            "name": "Had sompaen",
+            "latitude": 9.963056,
+            "longitude": 98.678058
+          }
+        ]
+      },
+      {
+        "province": "Ranong",
+        "district": "Kapoe",
+        "locality": "Khlong Nakha Wildlife sanctuary",
+        "position": [
+          {
+            "name": "Khlong Nakha Wildlife sanctuary",
+            "latitude": 9.457222,
+            "longitude": 98.511946
+          }
+        ]
+      },
+      {
+        "province": "Prachuap Khiri Khan",
+        "district": "Thab sakae",
+        "locality": "Huay Yang National Park",
+        "position": [
+          {
+            "name": "Huay Yang National Park",
+            "latitude": 11.629167,
+            "longitude": 99.578058
+          }
+        ]
+      },
+      {
+        "province": "Krabi",
+        "district": "Ao luk",
+        "locality": "Thanboke Khoranee National Park",
+        "position": [
+          {
+            "name": "Sra Boke Khoranee",
+            "latitude": 8.386667,
+            "longitude": 98.73778
+          }
+        ]
+      },
+      {
+        "province": "Phangnga",
+        "district": "Mueang",
+        "locality": "Chao Ngu Cave",
+        "position": [
+          {
+            "name": "Chao Ngu Cave",
+            "latitude": 8.448611,
+            "longitude": 98.54778
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Schwendinger, P. J. (2013b). A taxonomic revision of the spider genus Perania Thorell, 1890 (Araneae: Tetrablemmidae: Pacullinae) with the descriptions of eight new species. Revue Suisse de Zoologie 120(4): 585-663."
+    ]
+  },
+  {
+    "family": "Pacullidae",
+    "genus": "Perania",
+    "species": "tumida",
+    "author": "Schwendinger",
+    "publish_year": "2013",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "1600 m",
+    "method": "",
+    "habitat": "Evergreen gallery forest",
+    "microhabitat": "Holes",
+    "designate": "Latin adjective \u201ctumidus, -a, -um\u201d (= swollen). The species epithet refers to the clypeal hump of females in this species.",
+    "address": [
+      {
+        "province": "Uttaradit",
+        "district": "Nam Pat",
+        "locality": "Phu soi dao National Park",
+        "position": [
+          {
+            "name": "Rivulet below Lan Son",
+            "latitude": 17.7,
+            "longitude": 100.97
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Schwendinger, P. J. (2013b). A taxonomic revision of the spider genus Perania Thorell, 1890 (Araneae: Tetrablemmidae: Pacullinae) with the descriptions of eight new species. Revue Suisse de Zoologie 120(4): 585-663."
+    ]
+  },
+  {
+    "family": "Philodromidae",
+    "genus": "Thanatus",
+    "species": "parangvulgaris",
+    "author": "Barrion & Litsinger",
+    "publish_year": "1995",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "",
+    "method": "Net",
+    "habitat": "Paddy field",
+    "microhabitat": "Rice panicles",
+    "designate": "Derived from its close similarity to Thana_x0002_tus vulgaris Simon: in Tagalog \u2018parang\u2019 = similar, plus vulgaris.",
+    "address": [
+      {
+        "province": "Prachin Buri",
+        "district": "Ban Sang",
+        "locality": "Prachinburi Rice Research Station",
+        "position": [
+          {
+            "name": "Prachinburi Rice Research Station",
+            "latitude": 14.011381,
+            "longitude": 101.214769
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Barrion, A. T. & Litsinger, J. A. (1995). Riceland spiders of South and Southeast Asia. CAB International, Wallingford, UK, 700 pp., 16 pls."
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "albipes",
+    "author": "Schwendinger",
+    "publish_year": "1995",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "550 m",
+    "method": "",
+    "habitat": "Mixed deciduous forest, Evergreen hill forest",
+    "microhabitat": "On sloping floor",
+    "designate": "Refers to the pale femora of the female and juvcnilc spiders.",
+    "address": [
+      {
+        "province": "Prachuap Khiri Khan",
+        "district": "Thap Sakae",
+        "locality": "Nam Tok Huay Yang National Park",
+        "position": [
+          {
+            "name": "Khao Luang",
+            "latitude": 11.633333,
+            "longitude": 99.57
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Schwendinger, P. J. (1995). New Liphistius species (Araneae, Mesothelae) from southern Thailand and northern Malaysia. Zoologica Scripta 24(2): 143-156. doi:10.1111/j.1463-6409.1995.tb00396.x"
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "bicoloripes",
+    "author": "Ono",
+    "publish_year": "1988",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "50 m, 50 m",
+    "method": "",
+    "habitat": "SouthThailand",
+    "microhabitat": "",
+    "designate": "The latter by the anterodorsal pore-plate slightly longer than wide and the tibiae of legs orange",
+    "address": [
+      {
+        "province": "Ranong",
+        "district": "Kapoe",
+        "locality": "Khlong Nakha Wildlife Sanctuary",
+        "position": [
+          {
+            "name": "Khlong Nakha Wildlife Sanctuary",
+            "latitude": 9.50482328538956,
+            "longitude": 98.4935370719767
+          },
+          {
+            "name": "Khlong Nakha Wildlife Sanctuary",
+            "latitude": 9.50482328538956,
+            "longitude": 98.4935370719768
+          }
+        ]
+      },
+      {
+        "province": "Ranong",
+        "district": "Mueang",
+        "locality": "Had Sompaen",
+        "position": [
+          {
+            "name": "Road to Had Sompaen",
+            "latitude": 9.966667,
+            "longitude": 98.683335
+          }
+        ]
+      },
+      {
+        "province": "Chumphon",
+        "district": "Phato",
+        "locality": "Lak Lek",
+        "position": [
+          {
+            "name": "Lak Lek",
+            "latitude": 9.7,
+            "longitude": 98.666669
+          }
+        ]
+      },
+      {
+        "province": "Prachuap Khiri Khan",
+        "district": "Thap Sakae",
+        "locality": "Nam Tok Huay Yang National Park",
+        "position": [
+          {
+            "name": "Khao Luang",
+            "latitude": 11.633333,
+            "longitude": 99.57
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Ono, H. (1988b). Liphistiid spiders (Araneae, Mesothelae) of south Thailand. Bulletin of the National Museum of Nature and Science Tokyo (A) 14: 145-150.",
+      "Schwendinger, P. J. (1995). New Liphistius species (Araneae, Mesothelae) from southern Thailand and northern Malaysia. Zoologica Scripta 24(2): 143-156."
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "bristowei",
+    "author": "Platnick & Sedgwick",
+    "publish_year": "1984",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "1260 m",
+    "method": "",
+    "habitat": "North-western",
+    "microhabitat": "Mountainous regions",
+    "designate": "A patronym inhonorofthelateW. S.Bristowe,a life long student of Liphistius who first recorded the existence of this species at the type locality.",
+    "address": [
+      {
+        "province": "Chiang Mai",
+        "district": "Chom Thong",
+        "locality": "Mae Klang Luang",
+        "position": [
+          {
+            "name": "Mae Klang Luang",
+            "latitude": 18.5384776775133,
+            "longitude": 98.5485661568767
+          }
+        ]
+      },
+      {
+        "province": "Chiang Mai",
+        "district": "Mueang",
+        "locality": "Doi Suthep mountain",
+        "position": [
+          {
+            "name": "Doi Suthep mountain",
+            "latitude": 18.8161848768788,
+            "longitude": 98.89190146608
+          }
+        ]
+      },
+      {
+        "province": "Chiang Mai",
+        "district": "Mueang",
+        "locality": "Doi Suthep Pui",
+        "position": [
+          {
+            "name": "Doi Suthep Pui",
+            "latitude": 18.807268371217,
+            "longitude": 98.915318481791
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Ono, H. (1988a). Liphistiid spiders (Araneae, Mesothelae) of northwest Thailand. Bulletin of the National Museum of Nature and Science Tokyo (A) 14: 35-41.",
+      "Platnick, N. I. & Sedgwick, W. C. (1984). A revision of the spider genus Liphistius (Araneae, Mesothelae). American Museum Novitates 2781: 1-31.",
+      "Schwendinger, P. J. (1990a). On the spider genus Liphistius (Araneae: Mesothelae) in Thailand and Burma. Zoologica Scripta 19(3): 331-351. doi:10.1111/j.1463-6409.1990.tb00262.x"
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "castaneus",
+    "author": "Schwendinger",
+    "publish_year": "1995",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "30 m",
+    "method": "",
+    "habitat": "Semi-evergreen rain forest",
+    "microhabitat": "Stream banks",
+    "designate": "Refers to the uniformly brown body of thc spiders.",
+    "address": [
+      {
+        "province": "Ranong",
+        "district": "Kapoe",
+        "locality": "Khlong Nakha Wildlife Sanctuary",
+        "position": [
+          {
+            "name": "Khlong Nakha Wildlife Sanctuary",
+            "latitude": 9.50482328538956,
+            "longitude": 98.4935370719767
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Schwendinger, P. J. (1995). New Liphistius species (Araneae, Mesothelae) from southern Thailand and northern Malaysia. Zoologica Scripta 24(2): 143-156. doi:10.1111/j.1463-6409.1995.tb00396.x"
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "chang",
+    "author": "Tanikawa & Petcharad",
+    "publish_year": "2023",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "",
+    "method": "",
+    "habitat": "Evergreen forest",
+    "microhabitat": "",
+    "designate": "Arbitrary naming. \u201cChang\u201d is a Thai word that means elephant.",
+    "address": [
+      {
+        "province": "Kanchanaburi",
+        "district": "Thong Pha Phum",
+        "locality": "Pilok",
+        "position": [
+          {
+            "name": "Pilok",
+            "latitude": 14.695862,
+            "longitude": 98.407709
+          },
+          {
+            "name": "Huai Kayeng",
+            "latitude": 14.701168,
+            "longitude": 98.46471
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Tanikawa, A. & Petcharad, B. (2023). Two new species of Liphistius (Araneae: Liphistiidae) from Thailand. Acta Arachnologica 72(1): 1-8."
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "dangrek",
+    "author": "Schwendinger",
+    "publish_year": "1996",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "300 m",
+    "method": "",
+    "habitat": "Dry dipterocarp forest, Mixed deciduous forest",
+    "microhabitat": "Shady earth banks of sandy soil along tracks and on stream banks",
+    "designate": "Named after the Dangrek Range (also called Phanom Damrek or Phanom Dongrak)",
+    "address": [
+      {
+        "province": "Ubon Ratchathani",
+        "district": "Nam Yun",
+        "locality": "Phu Chong Nayoi National Park",
+        "position": [
+          {
+            "name": "Phu Chong Nayoi National Park",
+            "latitude": 14.3,
+            "longitude": 105.016669
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Schwendinger, P. J. (1996). New Liphistius species (Araneae, Mesothelae) from western and eastern Thailand. Zoologica Scripta 25(2): 123-141. doi:10.1111/j.1463-6409.1996.tb00155.x"
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "erawan",
+    "author": "Schwendinger",
+    "publish_year": "1996",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "100 m",
+    "method": "",
+    "habitat": "Evergreen gallery forest",
+    "microhabitat": "Earth banks",
+    "designate": "Named after the three- headed Hindu elephant god Erawan.",
+    "address": [
+      {
+        "province": "Kanchanaburi",
+        "district": "Bo Phloi",
+        "locality": "Erawan Waterfall and National Park",
+        "position": [
+          {
+            "name": "Erawan Waterfall and National Park",
+            "latitude": 14.416667,
+            "longitude": 99.07
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Schwendinger, P. J. (1996). New Liphistius species (Araneae, Mesothelae) from western and eastern Thailand. Zoologica Scripta 25(2): 123-141. doi:10.1111/j.1463-6409.1996.tb00155.x"
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "fuscus",
+    "author": "Schwendinger",
+    "publish_year": "1995",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "280 m",
+    "method": "",
+    "habitat": "Semi-evergreen rain forest",
+    "microhabitat": "Along the banks of streams",
+    "designate": "Refers to the dark body colouration, which is unusual for species from southern Thailand.",
+    "address": [
+      {
+        "province": "Krabi",
+        "district": "Krabi",
+        "locality": "Khao Phanom Bencha National Park",
+        "position": [
+          {
+            "name": "Khao Phanom Bencha National Park",
+            "latitude": 8.2,
+            "longitude": 98.933335
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Schwendinger, P. J. (1995). New Liphistius species (Araneae, Mesothelae) from southern Thailand and northern Malaysia. Zoologica Scripta 24(2): 143-156. doi:10.1111/j.1463-6409.1995.tb00396.x"
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "isan",
+    "author": "Schwendinger",
+    "publish_year": "1998",
+    "country": "Thailand",
+    "country_other": "Laos",
+    "altitude": "520 m",
+    "method": "",
+    "habitat": "Mixed deciduous forest",
+    "microhabitat": "Soil between the roots of a fallen tree and from earth banks along tracks and stream beds",
+    "designate": "The local name for North-Eastern Thailand.",
+    "address": [
+      {
+        "province": "Sakhon Nakhon",
+        "district": "Kut Bak",
+        "locality": "Phu Phan National Park",
+        "position": [
+          {
+            "name": "Phu Phan National Park",
+            "latitude": 16.716667,
+            "longitude": 103.87
+          }
+        ]
+      },
+      {
+        "province": "Ubon Ratchathani",
+        "district": "Khong Chiam",
+        "locality": "Sroi Sawan Waterfall",
+        "position": [
+          {
+            "name": "Near Sroi Sawan Waterfall",
+            "latitude": 15.460278,
+            "longitude": 105.578613
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Schwendinger, P. J. (1998). Five new Liphistius species (Araneae, Mesothelae) from Thailand. Zoologica Scripta 27(1): 17-30. [Erratum: Zoologica Scripta 28: 371-377] doi:10.1111/j.1463-6409.1998.tb00426.x",
+      "Schwendinger, P. J. (2013a). On two Liphistius species (Araneae: Liphistiidae) from Laos. Zootaxa 3702: 51-60. doi:10.11646/zootaxa.3702.1.2"
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "jarujini",
+    "author": "Ono",
+    "publish_year": "1988",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "950 m",
+    "method": "",
+    "habitat": "",
+    "microhabitat": "",
+    "designate": "Dedicated to Mr. Jarajin NABHITABHATA, Bangkok.",
+    "address": [
+      {
+        "province": "Tak",
+        "district": "Mae Sot",
+        "locality": "Taksin Maharat National Park",
+        "position": [
+          {
+            "name": "Taksin Maharat National Park",
+            "latitude": 16.7788992101043,
+            "longitude": 98.9284827446925
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Ono, H. (1988a). Liphistiid spiders (Araneae, Mesothelae) of northwest Thailand. Bulletin of the National Museum of Nature and Science Tokyo (A) 14: 35-41."
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "lahu",
+    "author": "Schwendinger",
+    "publish_year": "1998",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "1500 m, 1,600 m",
+    "method": "",
+    "habitat": "Deforested area",
+    "microhabitat": "",
+    "designate": "The Lahu ( = Musoe), a mountain dwelling people of northern Thailand,",
+    "address": [
+      {
+        "province": "Chiang Mai",
+        "district": "Fang",
+        "locality": "Doi Angkhang",
+        "position": [
+          {
+            "name": "Doi Angkhang",
+            "latitude": 19.95,
+            "longitude": 99.083335
+          },
+          {
+            "name": "Doi Pha Luang",
+            "latitude": 20.05,
+            "longitude": 99.166667
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Schwendinger, P. J. (1998). Five new Liphistius species (Araneae, Mesothelae) from Thailand. Zoologica Scripta 27(1): 17-30. [Erratum: Zoologica Scripta 28: 371-377] doi:10.1111/j.1463-6409.1998.tb00426.x"
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "lannaianus",
+    "author": "Schwendinger",
+    "publish_year": "1990",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "1700-1850 m",
+    "method": "",
+    "habitat": "Evergreen forest",
+    "microhabitat": "Deforested area and earth bank",
+    "designate": "Named after Lan Na Thai, a former independent kingdome in northern Thailand.",
+    "address": [
+      {
+        "province": "Chiang Mai",
+        "district": "Mae Taeng",
+        "locality": "Huay Nam Dang National Park",
+        "position": [
+          {
+            "name": "Huay Nam Dang",
+            "latitude": 19.3041789792069,
+            "longitude": 98.5989014902079
+          }
+        ]
+      },
+      {
+        "province": "Chiang Mai",
+        "district": "Fang",
+        "locality": "Doi Angkhang",
+        "position": [
+          {
+            "name": "Doi Angkhang",
+            "latitude": 19.8705688382794,
+            "longitude": 99.0549142172816
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Schwendinger, P. J. (1990a). On the spider genus Liphistius (Araneae: Mesothelae) in Thailand and Burma. Zoologica Scripta 19(3): 331-351. doi:10.1111/j.1463-6409.1990.tb00262.x"
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "maewongensis",
+    "author": "Sivayyapram, Smith, Weingdow & Warrit",
+    "publish_year": "2017",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "1266 m",
+    "method": "",
+    "habitat": "Soil burrows on man-made road cuttings",
+    "microhabitat": "On road cutting hill slope",
+    "designate": "Refers to the type locality, Mae Wong National Park, an important tiger sanctuary in Southeast Asia.",
+    "address": [
+      {
+        "province": "Kamphaeng Phet",
+        "district": "Klonglan",
+        "locality": "Mae Wong National Park",
+        "position": [
+          {
+            "name": "Mae Wong National Park",
+            "latitude": 16.0945,
+            "longitude": 99.123935
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Sivayyapram, V., Smith, D. R., Weingdow, S. & Warrit, N. (2017). A new Liphistius species (Mesothelae: Liphistiidae: Liphistiinae) from Thailand, with notes on its natural history. Journal of Arachnology 45(3): 287.295. doi:10.1636/JoA-S-17-028.1"
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "marginatus",
+    "author": "Schwendinger",
+    "publish_year": "1990",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "",
+    "method": "",
+    "habitat": "Decideous dipterocarp-oak forest",
+    "microhabitat": "On a path cut beside a stream",
+    "designate": "Refers to the conspicuous margin of the spider carapace.",
+    "address": [
+      {
+        "province": "Tak",
+        "district": "Mueang",
+        "locality": "Lan Sang National Park",
+        "position": [
+          {
+            "name": "Lan Sang National Park",
+            "latitude": 16.7826594060255,
+            "longitude": 99.0156595446918
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Schwendinger, P. J. (1990a). On the spider genus Liphistius (Araneae: Mesothelae) in Thailand and Burma. Zoologica Scripta 19(3): 331-351. doi:10.1111/j.1463-6409.1990.tb00262.x"
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "nesioticus",
+    "author": "Schwendinger",
+    "publish_year": "1996",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "50 m",
+    "method": "",
+    "habitat": "Semi-evergreenrain forest",
+    "microhabitat": "Stream and earth banks",
+    "designate": "Greek: nesioticos = islander.",
+    "address": [
+      {
+        "province": "Trat",
+        "district": "Laem Ngop",
+        "locality": "Ko Chang National Park",
+        "position": [
+          {
+            "name": "Ko Chang National Park",
+            "latitude": 12.016667,
+            "longitude": 102.316669
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Schwendinger, P. J. (1996). New Liphistius species (Araneae, Mesothelae) from western and eastern Thailand. Zoologica Scripta 25(2): 123-141. doi:10.1111/j.1463-6409.1996.tb00155.x"
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "niphanae",
+    "author": "Ono",
+    "publish_year": "1988",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "100-250 m, 100-250 m",
+    "method": "",
+    "habitat": "Evergreen forest along stream",
+    "microhabitat": "On a path cuts and on earth banks inside the forest and the root of standing trees",
+    "designate": "Dedicatetdo Dr.Niphan RATANAWORABHAN, Bangkok",
+    "address": [
+      {
+        "province": "Nakhon Si Thammarat",
+        "district": "Lan Saka",
+        "locality": "Khao Luang National Park",
+        "position": [
+          {
+            "name": "Khao Luang National Park",
+            "latitude": 8.98700300133257,
+            "longitude": 99.8247379441372
+          }
+        ]
+      },
+      {
+        "province": "Nakhon Si Thammarat",
+        "district": "Nopphitam",
+        "locality": "Nopphitam",
+        "position": [
+          {
+            "name": "Nopphitam",
+            "latitude": 8.70793814361056,
+            "longitude": 99.7549727121954
+          }
+        ]
+      },
+      {
+        "province": "Nakhon Si Thammarat",
+        "district": "Tha Sala",
+        "locality": "Tha Sala",
+        "position": [
+          {
+            "name": "Tha Sala",
+            "latitude": 8.62740292657443,
+            "longitude": 99.941351558707
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Ono, H. (1988b). Liphistiid spiders (Araneae, Mesothelae) of south Thailand. Bulletin of the National Museum of Nature and Science Tokyo (A) 14: 145-150. and Schwendinger, P. J. (1990a). On the spider genus Liphistius (Araneae: Mesothelae) in Thailand and Burma. Zoologica Scripta 19(3): 331-351. doi:10.1111/j.1463-6409.1990.tb00262.x"
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "ochraceus",
+    "author": "Ono & Schwendinger",
+    "publish_year": "1990",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "1200 m, 1200 m",
+    "method": "",
+    "habitat": "",
+    "microhabitat": "",
+    "designate": "",
+    "address": [
+      {
+        "province": "Loei",
+        "district": "Nong Bua",
+        "locality": "Phu Rua NationalPark",
+        "position": [
+          {
+            "name": "Phu Rua NationalPark",
+            "latitude": 17.5143948962823,
+            "longitude": 101.344934060381
+          }
+        ]
+      },
+      {
+        "province": "Phitsanulok",
+        "district": "Nakhon Thai",
+        "locality": "Phu Hin Rongkla",
+        "position": [
+          {
+            "name": "Phu Hin Rongkla",
+            "latitude": 17.0040774251682,
+            "longitude": 100.994237473047
+          }
+        ]
+      },
+      {
+        "province": "Loei",
+        "district": "Phu Rua",
+        "locality": "Phu Rua NationalPark",
+        "position": [
+          {
+            "name": "Phu Rua NationalPark",
+            "latitude": 17.433333,
+            "longitude": 101.366669
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Ono, H. & Schwendinger, P. J. (1990). Liphistiid spiders (Araneae, Mesothelae) from central and eastern Thailand. Bulletin of the National Museum of Nature and Science Tokyo (A) 16: 165-174.",
+      "Schwendinger, P. J. (1996). New Liphistius species (Araneae, Mesothelae) from western and eastern Thailand. Zoologica Scripta 25(2): 123-141. doi:10.1111/j.1463-6409.1996.tb00155.x"
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "onoi",
+    "author": "Schwendinger",
+    "publish_year": "1996",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "1200 m",
+    "method": "",
+    "habitat": "Evergreen hill forest",
+    "microhabitat": "Earth banks behind the park bungalows, surrounded by grassland and a lush",
+    "designate": "A patronym in honour of my dear colleague Dr Hirotsugu Ono (National Science Museum, Tokyo), who first discovered the new species.",
+    "address": [
+      {
+        "province": "Phitsanulok",
+        "district": "Nakhon Thai",
+        "locality": "Phu Hin Rongkla",
+        "position": [
+          {
+            "name": "Phu Hin Rongkla",
+            "latitude": 16.866667,
+            "longitude": 101.07
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Schwendinger, P. J. (1996). New Liphistius species (Araneae, Mesothelae) from western and eastern Thailand. Zoologica Scripta 25(2): 123-141. doi:10.1111/j.1463-6409.1996.tb00155.x"
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "ornatus",
+    "author": "Ono & Schwendinger",
+    "publish_year": "1990",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "300-400 m",
+    "method": "",
+    "habitat": "Semi-evergreen rain forest",
+    "microhabitat": "Temporarity shaded and vertical path cuts",
+    "designate": "Refers to the conspicuous colouration of females.",
+    "address": [
+      {
+        "province": "Chanthaburi",
+        "district": "Soi Dao",
+        "locality": "Khao Soi Dao Wildlife Sanctuary",
+        "position": [
+          {
+            "name": "Khao Soi Dao Wildlife Sanctuary",
+            "latitude": 13.1042091616499,
+            "longitude": 102.194226671434
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Ono, H. & Schwendinger, P. J. (1990). Liphistiid spiders (Araneae, Mesothelae) from central and eastern Thailand. Bulletin of the National Museum of Nature and Science Tokyo (A) 16: 165-174. and Schwendinger, P. J. & Ono, H. (2011). On two Heptathela species from southern Vietnam, with a discussion of copulatory organs and systematics of the Liphistiidae (Araneae: Mesothelae). Revue Suisse de Zoologie 118: 599-637."
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "owadai",
+    "author": "Ono & Schwendinger",
+    "publish_year": "1990",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "550 m",
+    "method": "",
+    "habitat": "",
+    "microhabitat": "",
+    "designate": "Named after Dr. Mamoru OWADA, National Science Museum, Tokyo, who felta high fever for ten days after numerous bites of Aedes mosquitoes during the research at Thung Salaeng Luang.",
+    "address": [
+      {
+        "province": "Phitsanulok",
+        "district": "Khao Kho",
+        "locality": "Thung Salaeng Luang",
+        "position": [
+          {
+            "name": "Thung Salaeng Luang",
+            "latitude": 16.5794881854226,
+            "longitude": 100.882449840333
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Ono, H. & Schwendinger, P. J. (1990). Liphistiid spiders (Araneae, Mesothelae) from central and eastern Thailand. Bulletin of the National Museum of Nature and Science Tokyo (A) 16: 165-174."
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "phileion",
+    "author": "Schwendinger",
+    "publish_year": "1998",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "10 m",
+    "method": "",
+    "habitat": "Secondary forest",
+    "microhabitat": "The seashore: some along road sides and the soil between rocks and roots of coastal trees",
+    "designate": "Refers to the habitat where the spiders were collected.",
+    "address": [
+      {
+        "province": "Rayong",
+        "district": "Rayong",
+        "locality": "Ao Phrao",
+        "position": [
+          {
+            "name": "Khao Laem Ya & Mu Ko Samet National Park",
+            "latitude": 12.55,
+            "longitude": 101.433335
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Schwendinger, P. J. (1998). Five new Liphistius species (Araneae, Mesothelae) from Thailand. Zoologica Scripta 27(1): 17-30. [Erratum: Zoologica Scripta 28: 371-377] doi:10.1111/j.1463-6409.1998.tb00426.x"
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "phuketensis",
+    "author": "Schwendinger",
+    "publish_year": "1998",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "100 m",
+    "method": "",
+    "habitat": "Semi-evergreen rain forest, Secondary forest",
+    "microhabitat": "Road sides and stream banks in a remnant patch",
+    "designate": "Named after the type locality.",
+    "address": [
+      {
+        "province": "Phuket",
+        "district": "Thalang",
+        "locality": "Khao Phra Thaeo Non-hunting Area",
+        "position": [
+          {
+            "name": "Tone Sai Waterfall",
+            "latitude": 8.033333,
+            "longitude": 98.366669
+          },
+          {
+            "name": "Kata Beach",
+            "latitude": 7.816667,
+            "longitude": 98.3
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Schwendinger, P. J. (1998). Five new Liphistius species (Araneae, Mesothelae) from Thailand. Zoologica Scripta 27(1): 17-30. [Erratum: Zoologica Scripta 28: 371-377] doi:10.1111/j.1463-6409.1998.tb00426.x"
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "pilok",
+    "author": "Tanikawa & Petcharad",
+    "publish_year": "2023",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "",
+    "method": "",
+    "habitat": "Evergreen forest along stream",
+    "microhabitat": "",
+    "designate": "The specific epithet was derived from the type locality.",
+    "address": [
+      {
+        "province": "Kanchanaburi",
+        "district": "Thong Pha Phum",
+        "locality": "Pilok",
+        "position": [
+          {
+            "name": "Pilok",
+            "latitude": 14.695862,
+            "longitude": 98.407709
+          },
+          {
+            "name": "Pilok",
+            "latitude": 14.68345,
+            "longitude": 98.362314
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Tanikawa, A. & Petcharad, B. (2023). Two new species of Liphistius (Araneae: Liphistiidae) from Thailand. Acta Arachnologica 72(1): 1-8."
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "pusohm",
+    "author": "Schwendinger",
+    "publish_year": "1996",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "800 m",
+    "method": "",
+    "habitat": "Evergreen gallery forest.",
+    "microhabitat": "Stream banks",
+    "designate": "Pu Sohm is a subterranean spirit of Thai Mythology, who guards a hidden treasure.",
+    "address": [
+      {
+        "province": "Phetchabun",
+        "district": "Lom Sak",
+        "locality": "Nam Nao National Park",
+        "position": [
+          {
+            "name": "Nam Nao National Park",
+            "latitude": 16.733333,
+            "longitude": 101.533335
+          }
+        ]
+      },
+      {
+        "province": "Loei",
+        "district": "Phu Kradung",
+        "locality": "Phu Kradung National Park",
+        "position": [
+          {
+            "name": "Phu Kradung National Park",
+            "latitude": 6.833333,
+            "longitude": 101.87
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Schwendinger, P. J. (1996). New Liphistius species (Araneae, Mesothelae) from western and eastern Thailand. Zoologica Scripta 25(2): 123-141. doi:10.1111/j.1463-6409.1996.tb00155.x"
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "sayam",
+    "author": "Schwendinger",
+    "publish_year": "1998",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "110 m",
+    "method": "",
+    "habitat": "Evergreen gallery forest surrounded by mixed deciduous forest",
+    "microhabitat": "Near a stream",
+    "designate": "Sayam is the Thai word for Siam.",
+    "address": [
+      {
+        "province": "Chon Buri",
+        "district": "Si Racha",
+        "locality": "Khao Khieo Wildlife Sanctuary",
+        "position": [
+          {
+            "name": "Khao Khieo Wildlife Sanctuary",
+            "latitude": 13.166667,
+            "longitude": 100.966669
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Schwendinger, P. J. (1998). Five new Liphistius species (Araneae, Mesothelae) from Thailand. Zoologica Scripta 27(1): 17-30. [Erratum: Zoologica Scripta 28: 371-377] doi:10.1111/j.1463-6409.1998.tb00426.x"
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "schwendingeri",
+    "author": "Ono",
+    "publish_year": "1988",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "50 m",
+    "method": "",
+    "habitat": "Semi-evergreen rain forest",
+    "microhabitat": "Banks of a stream",
+    "designate": "",
+    "address": [
+      {
+        "province": "Ranong",
+        "district": "Kapoe",
+        "locality": "Khlong Nakha",
+        "position": [
+          {
+            "name": "Khlong Nakha",
+            "latitude": 9.483333,
+            "longitude": 98.57
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Ono, H. (1988b). Liphistiid spiders (Araneae, Mesothelae) of south Thailand. Bulletin of the National Museum of Nature and Science Tokyo (A) 14: 145-150. and Schwendinger, P. J. (1995). New Liphistius species (Araneae, Mesothelae) from southern Thailand and northern Malaysia. Zoologica Scripta 24(2): 143-156. doi:10.1111/j.1463-6409.1995.tb00396.x"
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "suwat",
+    "author": "Schwendinger",
+    "publish_year": "1996",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "580 m",
+    "method": "",
+    "habitat": "Semi-evergreen rain forest",
+    "microhabitat": "Road sides and earth banks",
+    "designate": "Name is taken from the type locality.",
+    "address": [
+      {
+        "province": "Nakhon Ratchasima",
+        "district": "Pak Chong",
+        "locality": "Khao Yai National Park",
+        "position": [
+          {
+            "name": "Heo Suwat Waterfall",
+            "latitude": 14.35,
+            "longitude": 101.483335
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Schwendinger, P. J. (1996). New Liphistius species (Araneae, Mesothelae) from western and eastern Thailand. Zoologica Scripta 25(2): 123-141. doi:10.1111/j.1463-6409.1996.tb00155.x"
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "tenuis",
+    "author": "Schwendinger",
+    "publish_year": "1996",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "100 m",
+    "method": "",
+    "habitat": "Semi-evergreen rain forest",
+    "microhabitat": "Near streams",
+    "designate": "Refers to small body size.",
+    "address": [
+      {
+        "province": "Chanthaburi",
+        "district": "Chanthaburi",
+        "locality": "Khao Sabap National Park",
+        "position": [
+          {
+            "name": "Nam Tok Phliu",
+            "latitude": 12.533333,
+            "longitude": 102.4
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Schwendinger, P. J. (1996). New Liphistius species (Araneae, Mesothelae) from western and eastern Thailand. Zoologica Scripta 25(2): 123-141. doi:10.1111/j.1463-6409.1996.tb00155.x"
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "thaleri",
+    "author": "Schwendinger",
+    "publish_year": "2009",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "30 m",
+    "method": "",
+    "habitat": "Evergreen forest",
+    "microhabitat": "Remnant patch",
+    "designate": "Named after the highly esteemed Austrian arachnologist, myriapodologist and entomologist, the late Konrad Thaler.",
+    "address": [
+      {
+        "province": "Trang",
+        "district": "Kantang",
+        "locality": "Ko Libong (Ko Talibong)",
+        "position": [
+          {
+            "name": "Ko Libong (Ko Talibong)",
+            "latitude": 7.267778,
+            "longitude": 99.377224
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Schwendinger, P. J. (2009b). Liphistius thaleri, a new mesothelid spider species from southern Thailand (Araneae: Liphistiidae). Contributions to Natural History 12: 1253-1268., Schwendinger, P. J. & Ono, H. (2011). On two Heptathela species from southern Vietnam, with a discussion of copulatory organs and systematics of the Liphistiidae (Araneae: Mesothelae). Revue Suisse de Zoologie 118: 599-637."
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "tham",
+    "author": "Sedgwick & Schwendinger",
+    "publish_year": "1990",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "200 m",
+    "method": "",
+    "habitat": "Cave",
+    "microhabitat": "The remote, dark part",
+    "designate": "tham=cave, refers to the habitat of the species.",
+    "address": [
+      {
+        "province": "Saraburi",
+        "district": "Kaeng Khoi",
+        "locality": "Tham Sapan Hin",
+        "position": [
+          {
+            "name": "Stone garden cave",
+            "latitude": 14.6351001870066,
+            "longitude": 101.151485673253
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Schwendinger, P. J. (1990a). On the spider genus Liphistius (Araneae: Mesothelae) in Thailand and Burma. Zoologica Scripta 19(3): 331-351., Sedgwick, W. C. & Schwendinger, P. J. (1990). On a new cave-dwelling Liphistius from Thailand (Araneae: Liphistiidae). Bulletin of the British Arachnological Society 8: 109-112."
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "thoranie",
+    "author": "Schwendinger",
+    "publish_year": "1996",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "680 m",
+    "method": "",
+    "habitat": "Semi-evergreen rain forest",
+    "microhabitat": "Path cuts",
+    "designate": "Thai: thoranie(thoranee) = the earth, threshold. Mae Phra Thoranie is the goddess of the earth in Thai mythology.",
+    "address": [
+      {
+        "province": "Nakhon Ratchasima",
+        "district": "Pak Chong",
+        "locality": "Khao Yai National Park",
+        "position": [
+          {
+            "name": "Kong Kaeo Waterfall",
+            "latitude": 14.35,
+            "longitude": 101.416669
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Schwendinger, P. J. (1996). New Liphistius species (Araneae, Mesothelae) from western and eastern Thailand. Zoologica Scripta 25(2): 123-141. doi:10.1111/j.1463-6409.1996.tb00155.x"
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "trang",
+    "author": "Platnick & Sedgwick",
+    "publish_year": "1984",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "100 m",
+    "method": "",
+    "habitat": "Evergreen forest",
+    "microhabitat": "Temporarily shaded, steeply inclined roadsides and earth banks covered with sparse vegetation",
+    "designate": "Noun in apposition taken from the type locality.",
+    "address": [
+      {
+        "province": "Trang",
+        "district": "Na Yong",
+        "locality": "Krachong Forest",
+        "position": [
+          {
+            "name": "Krachong Forest",
+            "latitude": 7.55122718616308,
+            "longitude": 99.7818490942427
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Platnick, N. I. & Sedgwick, W. C. (1984). A revision of the spider genus Liphistius (Araneae, Mesothelae). American Museum Novitates 2781: 1-31. and Schwendinger, P. J. (1987). On the male of Liphistius trang (Araneae: Mesothelae), with notes on the natural history of the species. Natural History Bulletin of the Siam Society 35: 19-25. and Schwendinger, P. J. (1990a). On the spider genus Liphistius (Araneae: Mesothelae) in Thailand and Burma. Zoologica Scripta 19(3): 331-351. doi:10.1111/j.1463-6409.1990.tb00262.x"
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "yamasakii",
+    "author": "Ono",
+    "publish_year": "1988",
+    "country": "Thailand",
+    "country_other": "",
+    "altitude": "1700 m",
+    "method": "",
+    "habitat": "Evergreen hill forest",
+    "microhabitat": "Mounds of earth",
+    "designate": "Named after ProfessorTsukane YAMAsAKi, Tokyo Metro- politan University.",
+    "address": [
+      {
+        "province": "Chiang Mai",
+        "district": "Mae Chaem",
+        "locality": "Between Maeo Khun Klang and Mae Chaem",
+        "position": [
+          {
+            "name": "Doi Inthanon",
+            "latitude": 18.5888150629129,
+            "longitude": 98.4868466603192
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Ono, H. (1988a). Liphistiid spiders (Araneae, Mesothelae) of northwest Thailand. Bulletin of the National Museum of Nature and Science Tokyo (A) 14: 35-41."
+    ]
+  },
+  {
+    "family": "Liphistiidae",
+    "genus": "Liphistius",
+    "species": "yangae",
+    "author": "Platnick & Sedgwick",
+    "publish_year": "1984",
+    "country": "Thailand",
+    "country_other": "Malaysia",
+    "altitude": "160 m",
+    "method": "",
+    "habitat": "",
+    "microhabitat": "",
+    "designate": "Refer to one single species.",
+    "address": [
+      {
+        "province": "Songkhla",
+        "district": "Hat Yai",
+        "locality": "Tone Nga Chang Waterfall",
+        "position": [
+          {
+            "name": "Tone Nga Chang Waterfall",
+            "latitude": 6.9519327909622,
+            "longitude": 100.233514187835
+          }
+        ]
+      },
+      {
+        "province": "Satun",
+        "district": "Khuan Don",
+        "locality": "Thale Ban National Park",
+        "position": [
+          {
+            "name": "Thale Ban National Park",
+            "latitude": 6.71056012742832,
+            "longitude": 100.170934187384
+          }
+        ]
+      },
+      {
+        "province": "Yala",
+        "district": "Bannang Sata",
+        "locality": "Than To Waterfall Forest Park",
+        "position": [
+          {
+            "name": "Than To Waterfall Forest Park",
+            "latitude": 6.81844307819908,
+            "longitude": 102.115108782645
+          }
+        ]
+      },
+      {
+        "province": "Songkhla",
+        "district": "Hat Yai",
+        "locality": "Hat Yai",
+        "position": [
+          {
+            "name": "Hat Yai",
+            "latitude": 7.04486612532251,
+            "longitude": 100.510399999354
+          }
+        ]
+      },
+      {
+        "province": "Narathiwat",
+        "district": "Waeng",
+        "locality": "Hala-Bala Wildlife Sanctuary",
+        "position": [
+          {
+            "name": "Hala-Bala Wildlife Sanctuary",
+            "latitude": 5.80815086873334,
+            "longitude": 101.845060129443
+          }
+        ]
+      }
+    ],
+    "paper": [
+      "Schwendinger, P. J., Syuhadah, N., Lehmann-Graber, C., Price, L., Huber, S., Hashim, R., Bhassu, S. & Monod, L. (2019). A revision of the trapdoor spider genus Liphistius (Mesothelae: Liphistiidae) in Peninsular Malaysia; part 2. Revue Suisse de Zoologie 126(2): 321-353."
+    ]
+  }
+]
